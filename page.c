@@ -1,4 +1,4 @@
-#include "page.h";
+#include "page.h"
 
 Page * PAGE_createPage() {
     Page *page = (Page *) malloc (sizeof(Page));

@@ -1,5 +1,6 @@
-#include "lru.h";
-#include "page.h";
+#include <stdio.h>
+#include "lru.h"
+#include "page.h"
 
 /* private interface */
 
@@ -25,7 +26,7 @@ void LRU_tick() {
     }
 }
 
-int LRU_createPage(void *content) {
+int LRU_createPage() {
     if (pageCount < MAX_PAGES) {
         pages[pageCount++] = PAGE_createPage();
         printf("[LRU] pagina (indice:%d) criada\n", pageCount -1);
