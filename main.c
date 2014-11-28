@@ -15,6 +15,7 @@ int main(void) {
     int randomIndex;
     for (i = 0; i < THREADS * THREAD_CREATION_INTERVAL; i++) {
         if (i % THREAD_CREATION_INTERVAL == 0) {
+            printf("[MAIN] Thread (indice:%d) criada\n", numThreads);
             threads[numThreads] = (Thread *) THREAD_createThread();
             for (j = 0; j < THREAD_MAX_PAGES; j++) {
                 threads[numThreads]->pageIndexes[j] = LRU_createPage();

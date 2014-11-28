@@ -48,8 +48,9 @@ void PAGE_resetPageAccessCount(Page *page) {
 
 void PAGE_tick(Page *page) {
     page->counter >>= 1;
-    if (PAGE_isActive(page))
+    if (PAGE_isAccessed(page))
         page->counter |= 0x80;
+    page->accessed = 0;
 }
 
 void PAGE_destroyPage(Page *page) {

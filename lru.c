@@ -40,13 +40,17 @@ int LRU_createPage() {
 void LRU_accessPage(int index) {
     Page *page = pages[index];
     if (page != NULL) {
-        if (!PAGE_isActive(page) && activePages > MAX_ACTIVE_PAGES) {
+        if (!PAGE_isActive(page) && activePages >= MAX_ACTIVE_PAGES) {
             LRU_inactivateOldestPage();
         } else if (activePages < MAX_ACTIVE_PAGES) {
             activePages++;
         }
+        if (!PAGE_isActive(page)) {
+            PAGE_resetPageAccessCount(page);
+            PAGE_setActive(page);
+            printf("[LRU] pagina (indice:%d) foi ativada (%d paginas ativas)\n", index, activePages);
+        }
         PAGE_setAccessed(page);
-        PAGE_setActive(page);
         printf("[LRU] pagina (indice:%d) foi acessada\n", index);
     } else {
         printf("[LRU] [ERRO] Tentando acessar pagina nula\n");
@@ -67,6 +71,6 @@ void LRU_inactivateOldestPage() {
             oldestPageAge = PAGE_getLastAccessAge(pages[i]);
         }
     }
-    printf("[LRU] pagina (indice:%d) foi inativada\n",  oldestPage);
+    printf("[LRU] pagina (indice:%d) foi desativada\n",  oldestPage);
     PAGE_setInactive(pages[oldestPage]);
 }
