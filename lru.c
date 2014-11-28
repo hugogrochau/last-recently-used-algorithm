@@ -4,11 +4,11 @@
 
 /* private interface */
 
-void LRU_accessPage(Page *page);
+void LRU_accessPage(int index);
 
 void LRU_inactivateOldestPage();
 
-Page pages[MAX_PAGES]
+Page *pages[MAX_PAGES];
 int pageCount = 0;
 int activePages = 0;
 

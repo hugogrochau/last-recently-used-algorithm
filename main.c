@@ -15,7 +15,7 @@ int main(void) {
     int randomIndex;
     for (i = 0; i < THREADS * THREAD_CREATION_INTERVAL; i++) {
         if (i % THREAD_CREATION_INTERVAL == 0) {
-            threads[numThreads] = THREAD_createThread();
+            threads[numThreads] = (Thread *) THREAD_createThread();
             for (j = 0; j < THREAD_MAX_PAGES; j++) {
                 threads[numThreads]->pageIndexes[j] = LRU_createPage();
                 threads[numThreads]->numPages++;
@@ -26,7 +26,7 @@ int main(void) {
             for (j = 0; j < numThreads; j++) {
                 if (threads[j]->ticks % PAGE_ACCESS_INTERVAL == 0) {
                     randomIndex = rand() % THREAD_MAX_PAGES;
-                    LRU_accessPage(threads[j]->pageIndex[randomIndex]);
+                    LRU_accessPage(threads[j]->pageIndexes[randomIndex]);
                 }
                 threads[j]->ticks++;
             }

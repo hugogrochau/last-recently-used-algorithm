@@ -6,4 +6,4 @@ typedef struct thread {
     int ticks;
 } Thread;
 
-Thread *createThread();
+Thread *THREAD_createThread();

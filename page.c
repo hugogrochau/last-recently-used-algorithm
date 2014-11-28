@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include "page.h"
 
 Page * PAGE_createPage() {
@@ -26,8 +27,9 @@ void PAGE_setAccessed(Page *page) {
 unsigned int PAGE_getLastAccessAge(Page *page) {
     unsigned int i;
     for (i = 0; i < 8; i++) {
-        if ((page->counter << i) & 0x80))
+        if ((page->counter << i) & 0x80) {
             break;
+        }
     }
     return i;
 }
@@ -37,7 +39,7 @@ unsigned char PAGE_isActive(Page *page) {
 }
 
 unsigned char PAGE_isAccessed(Page *page) {
-    return page->acessed;
+    return page->accessed;
 }
 
 void PAGE_resetPageAccessCount(Page *page) {

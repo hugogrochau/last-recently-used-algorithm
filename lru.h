@@ -3,6 +3,6 @@
 
 void LRU_tick();
 
-int LRU_createPage(void *content);
+int LRU_createPage();
 
 void LRU_accessPage(int index);
