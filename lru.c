@@ -33,21 +33,8 @@ int LRU_createPage(void *content) {
     }
 }
 
-void *LRU_getPageContent(int index) {
+void LRU_accessPage(int index) {
     Page *page = pages[index];
-    LRU_accessPage(page);
-    return PAGE_getContent(page);
-}
-
-void LRU_setPageContent(int index, int content) {
-    Page *page = pages[index];
-    LRU_accessPage(page);
-    PAGE_setContent(page, content);
-}
-
-/* private functions */
-
-void LRU_accessPage(Page *page) {
     if (page != NULL) {
         if (!PAGE_isActive(page) && activePages > MAX_ACTIVE_PAGES) {
             LRU_inactivateOldestPage();
@@ -58,6 +45,8 @@ void LRU_accessPage(Page *page) {
         PAGE_setActive(page);
     }
 }
+
+/* private functions */
 
 void LRU_inactivateOldestPage() {
     int i;

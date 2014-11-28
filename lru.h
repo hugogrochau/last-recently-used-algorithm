@@ -5,6 +5,4 @@ void LRU_tick();
 
 int LRU_createPage(void *content);
 
-void *LRU_getPageContent(int index);
-
-void LRU_setPageContent(int index, int content);
+void LRU_accessPage(int index);

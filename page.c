@@ -25,22 +25,6 @@ void PAGE_setAccessed(Page *page) {
     page->accessed = 1;
 }
 
-void PAGE_setPageContent(Page *page, int content);
-    if (page == NULL) {
-        printf("{PAGE} - Pagina nao existe");
-    } else {
-        page->content = content;
-    }
-}
-
-int PAGE_getPageContent(Page *page){
-    if (page == NULL) {
-        printf("{PAGE} - Pagina nao existe");
-        return NULL;
-    }
-    return page->content; 
-}
-
 unsigned int PAGE_getLastAccessAge(Page *page) {
     unsigned int i;
     for (i = 0; i < 8; i++) {
