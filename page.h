@@ -18,9 +18,9 @@ int PAGE_getPageContent(Page *page);
 
 unsigned int PAGE_getLastAccessAge(Page *page);
 
-void PAGE_isActive(Page *page);
+unsigned char PAGE_isActive(Page *page);
 
-void PAGE_isAccessed(Page *page);
+unsigned char PAGE_isAccessed(Page *page);
 
 void PAGE_resetPageAccessCount(Page *page);
 

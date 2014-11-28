@@ -18,7 +18,7 @@ void PAGE_setActive(Page *page) {
 }
 
 void PAGE_setInactive(Page *page) {
-    page->active = 1;
+    page->active = 0;
 }
 
 void PAGE_setAccessed(Page *page) {
@@ -28,9 +28,9 @@ void PAGE_setAccessed(Page *page) {
 void PAGE_setPageContent(Page *page, int content);
     if (page == NULL) {
         printf("{PAGE} - Pagina nao existe");
-        return NULL;
+    } else {
+        page->content = content;
     }
-    page->content = content;
 }
 
 int PAGE_getPageContent(Page *page){
@@ -50,11 +50,11 @@ unsigned int PAGE_getLastAccessAge(Page *page) {
     return i;
 }
 
-void PAGE_isActive(Page *page) {
+unsigned char PAGE_isActive(Page *page) {
     return page->active;
 }
 
-void PAGE_isAccessed(Page *page) {
+unsigned char PAGE_isAccessed(Page *page) {
     return page->acessed;
 }
 
@@ -67,6 +67,7 @@ void PAGE_tick(Page *page) {
     if (PAGE_isActive(page))
         page->counter |= 0x80;
 }
+
 void PAGE_destroyPage(Page *page) {
     free(page);
     page = NULL;
