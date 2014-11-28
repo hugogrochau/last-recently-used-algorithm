@@ -7,6 +7,4 @@ int LRU_createPage(void *content);
 
 void *LRU_getPageContent(int index);
 
-void LRU_accessPage(Page *page);
-
-void LRU_inactivateOldestPage();
+void LRU_setPageContent(int index, int content);

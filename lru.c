@@ -1,9 +1,17 @@
 #include "lru.h";
 #include "page.h";
 
+/* private interface */
+
+void LRU_accessPage(Page *page);
+
+void LRU_inactivateOldestPage();
+
 Page pages[MAX_PAGES]
 int pageCount = 0;
 int activePages = 0;
+
+/* public functions */
 
 void LRU_tick() {
     int i;
@@ -36,6 +44,8 @@ void LRU_setPageContent(int index, int content) {
     LRU_accessPage(page);
     PAGE_setContent(page, content);
 }
+
+/* private functions */
 
 void LRU_accessPage(Page *page) {
     if (page != NULL) {
