@@ -1,7 +1,6 @@
 #include "page.h";
 
-Page * PAGE_createPage)
-{
+Page * PAGE_createPage() {
 	Page *page = (Page *) malloc (sizeof(Page));
 	printf("{PAGE} - Pagina criada\n");	
 	if (page == NULL) {
@@ -13,6 +12,13 @@ Page * PAGE_createPage)
 	return page;
 }
 
+void PAGE_setActive(Page *page) {
+	page->active = 1;
+}
+
+void PAGE_setAccessed(Page *page) {
+	page->accessed = 1;
+}
 
 void *PAGE_getPageContent(Page *page){
 	if (page == NULL) {
@@ -22,13 +28,22 @@ void *PAGE_getPageContent(Page *page){
 	return page->content; 
 }
 
+void PAGE_isActive(Page *page) {
+	return page->active;
+}
+
+void PAGE_isAccessed(Page *page) {
+	return page->acessed;
+}
+
 void PAGE_resetPageAccessCount(Page *page) {
 	page->counter = 0;
 }
 
-void PAGE_tick(Page *page, unsigned char accessed) {
+void PAGE_tick(Page *page) {
 	page->counter >>= 1;
-	page->counter |= 0x80;
+	if (PAGE_isActive(page))
+		page->counter |= 0x80;
 }
 void PAGE_destroyPage(Page *page) {
 	free(page);

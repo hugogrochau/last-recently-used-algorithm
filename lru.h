@@ -1,19 +1,3 @@
-#define MAX_FRAMES 4
-#define MAX_FRAMES_GLOBAL 16
-
-
-void load(float *tick_time,float *thread_time,float *page_time,float *mini_time);
-
-void generateLogAge();
-
-void clearLogAge();
-
-void clearLogFrame();
-
-void generateLogFrame();
-
-void clearLogExec();
-
-void addExecLog(char *txt);
-
-void printConfig();
+#define MAX_PAGES_PER_THREAD 4
+#define MAX_ACTIVE_PAGES 16
+#define MAX_PAGES 16*8

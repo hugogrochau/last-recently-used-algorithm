@@ -1,15 +1,25 @@
 typedef struct page
 {
-	unsigned int accesses;
-	void * content;
+	unsigned char counter;
+	unsigned char accessed;
 	unsigned char active;
+	void * content;
 } Page;
-
 
 Page* PAGE_createPage(int id);
 
+void PAGE_setActive(Page *page);
+
+void PAGE_setAccessed(Page *page);
+
 void* PAGE_getPageContent(Page *page);
 
+void PAGE_isActive(Page *page);
+
+void PAGE_isAccessed(Page *page);
+
 void PAGE_resetPageAccessCount(Page *page);
+
+void PAGE_tick(Page *page, unsigned char accessed);
 
 void PAGE_destroyPage(Page *page);
