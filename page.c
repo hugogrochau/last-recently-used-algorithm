@@ -23,9 +23,13 @@ void *PAGE_getPageContent(Page *page){
 }
 
 void PAGE_resetPageAccessCount(Page *page) {
-	page->acesses = 0;
+	page->counter = 0;
 }
 
+void PAGE_tick(Page *page, unsigned char accessed) {
+	page->counter >>= 1;
+	page->counter |= 0x80;
+}
 void PAGE_destroyPage(Page *page) {
 	free(page);
 	page = NULL;
