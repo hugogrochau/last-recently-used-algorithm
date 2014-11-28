@@ -2,9 +2,7 @@
 
 Page * PAGE_createPage() {
     Page *page = (Page *) malloc (sizeof(Page));
-    printf("{PAGE} - Pagina criada\n"); 
     if (page == NULL) {
-        printf("{PAGE} - Erro a criar pagina")
         return NULL;
     }
     page->counter = 0;
