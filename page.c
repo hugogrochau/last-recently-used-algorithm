@@ -24,8 +24,8 @@ void PAGE_setAccessed(Page *page) {
     page->accessed = 1;
 }
 
-unsigned int PAGE_getLastAccessAge(Page *page) {
-    unsigned int i;
+int PAGE_getLastAccessAge(Page *page) {
+    int i;
     for (i = 0; i < 8; i++) {
         if ((page->counter << i) & 0x80) {
             break;

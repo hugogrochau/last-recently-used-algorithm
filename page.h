@@ -11,7 +11,7 @@ void PAGE_setActive(Page *page);
 
 void PAGE_setAccessed(Page *page);
 
-unsigned int PAGE_getLastAccessAge(Page *page);
+int PAGE_getLastAccessAge(Page *page);
 
 unsigned char PAGE_isActive(Page *page);
 

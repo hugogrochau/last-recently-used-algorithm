@@ -6,7 +6,7 @@
 
 void LRU_accessPage(int index);
 
-void LRU_inactivateOldestPage();
+void LRU_deactivateOldestPage();
 
 Page *pages[MAX_PAGES];
 int pageCount = 0;
@@ -29,7 +29,6 @@ void LRU_tick() {
 int LRU_createPage() {
     if (pageCount < MAX_PAGES) {
         pages[pageCount++] = PAGE_createPage();
-        printf("[LRU] pagina (indice:%d) criada\n", pageCount -1);
         return pageCount - 1;
     } else {
         printf("[LRU] [ERRO] Nao pode mais criar paginas\n");
@@ -41,7 +40,7 @@ void LRU_accessPage(int index) {
     Page *page = pages[index];
     if (page != NULL) {
         if (!PAGE_isActive(page) && activePages >= MAX_ACTIVE_PAGES) {
-            LRU_inactivateOldestPage();
+            LRU_deactivateOldestPage();
         } else if (activePages < MAX_ACTIVE_PAGES) {
             activePages++;
         }
@@ -60,13 +59,13 @@ void LRU_accessPage(int index) {
 
 /* private functions */
 
-void LRU_inactivateOldestPage() {
+void LRU_deactivateOldestPage() {
     int i;
     Page *currentPage;
     int oldestPage = -1;
     int oldestPageAge = -1;
     for (i = 0; i < pageCount; i++) {
-        if (PAGE_getLastAccessAge(pages[i]) > oldestPageAge) {
+        if (PAGE_getLastAccessAge(pages[i]) > oldestPageAge && PAGE_isActive(pages[i])) {
             oldestPage = i;
             oldestPageAge = PAGE_getLastAccessAge(pages[i]);
         }
