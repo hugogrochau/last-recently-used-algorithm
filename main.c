@@ -13,27 +13,32 @@ int numThreads = 0;
 int main(void) {
     int i, j;
     int randomIndex;
+    int newThreadIndex;
     srand(time(NULL));
+
     for (i = 0; i < THREADS * THREAD_CREATION_INTERVAL; i++) {
+        printf("Tick %d - ", i);
+        LRU_tick();
+        
         if (i % THREAD_CREATION_INTERVAL == 0) {
-            printf("Thread (indice:%d) criada\n", numThreads);
-            threads[numThreads] = (Thread *) THREAD_createThread();
+            newThreadIndex = numThreads;
+            printf("Thread %d criada\n", newThreadIndex);
+            threads[newThreadIndex] = (Thread *) THREAD_createThread();
             for (j = 0; j < THREAD_MAX_PAGES; j++) {
-                threads[numThreads]->pageIndexes[j] = LRU_createPage();
-                threads[numThreads]->numPages++;
+                threads[newThreadIndex]->pageIndexes[j] = LRU_createPage(newThreadIndex);
+                threads[newThreadIndex]->numPages++;
             }
             numThreads++;
         }
-        if (i % PAGE_ACCESS_INTERVAL == 0) {
-            for (j = 0; j < numThreads; j++) {
-                if (threads[j]->ticks % PAGE_ACCESS_INTERVAL == 0) {
-                    randomIndex = rand() % THREAD_MAX_PAGES;
-                    LRU_accessPage(threads[j]->pageIndexes[randomIndex]);
-                }
-                threads[j]->ticks++;
+
+        for (j = 0; j < numThreads; j++) {
+            if (threads[j]->ticks % PAGE_ACCESS_INTERVAL == 0) {
+                randomIndex = rand() % THREAD_MAX_PAGES;
+                LRU_accessPage(threads[j]->pageIndexes[randomIndex], j);
             }
+            threads[j]->ticks++;
         }
-        LRU_tick();
+
         sleep(1);
     }
 
