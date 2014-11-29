@@ -72,6 +72,6 @@ void LRU_deactivateOldestPage() {
             oldestPageAge = PAGE_getLastAccessAge(pages[i]);
         }
     }
-    printf("Pagina (indice:%d / idade:%d) foi desativada\n",  oldestPage, oldestPageAge);
+    printf("Pagina (indice:%d) foi desativada\n",  oldestPage);
     PAGE_setInactive(pages[oldestPage]);
 }

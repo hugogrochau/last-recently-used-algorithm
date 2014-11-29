@@ -1,0 +1,558 @@
+Thread (indice:0) criada
+Pagina (indice:4) foi ativada (1 paginas ativas)
+Pagina (indice:4) foi acessada
+Tick - Paginas Ativadas:  4,
+Tick - Paginas Ativadas:  4,
+Tick - Paginas Ativadas:  4,
+Tick - Paginas Ativadas:  4,
+Pagina (indice:5) foi ativada (2 paginas ativas)
+Pagina (indice:5) foi acessada
+Tick - Paginas Ativadas:  4, 5,
+Thread (indice:1) criada
+Tick - Paginas Ativadas:  4, 5,
+Pagina (indice:12) foi ativada (3 paginas ativas)
+Pagina (indice:12) foi acessada
+Tick - Paginas Ativadas:  4, 5, 12,
+Tick - Paginas Ativadas:  4, 5, 12,
+Pagina (indice:0) foi ativada (4 paginas ativas)
+Pagina (indice:0) foi acessada
+Tick - Paginas Ativadas:  0, 4, 5, 12,
+Tick - Paginas Ativadas:  0, 4, 5, 12,
+Thread (indice:2) criada
+Pagina (indice:8) foi ativada (5 paginas ativas)
+Pagina (indice:8) foi acessada
+Pagina (indice:18) foi ativada (6 paginas ativas)
+Pagina (indice:18) foi acessada
+Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
+Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
+Pagina (indice:0) foi acessada
+Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
+Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
+Pagina (indice:10) foi ativada (8 paginas ativas)
+Pagina (indice:10) foi acessada
+Pagina (indice:22) foi ativada (9 paginas ativas)
+Pagina (indice:22) foi acessada
+Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22,
+Thread (indice:3) criada
+Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22,
+Pagina (indice:4) foi acessada
+Pagina (indice:25) foi ativada (11 paginas ativas)
+Pagina (indice:25) foi acessada
+Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22, 25,
+Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22, 25,
+Pagina (indice:11) foi ativada (12 paginas ativas)
+Pagina (indice:11) foi acessada
+Pagina (indice:21) foi ativada (13 paginas ativas)
+Pagina (indice:21) foi acessada
+Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 11, 12, 18, 21, 22, 25,
+Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 11, 12, 18, 21, 22, 25,
+Thread (indice:4) criada
+Pagina (indice:3) foi ativada (14 paginas ativas)
+Pagina (indice:3) foi acessada
+Pagina (indice:24) foi ativada (15 paginas ativas)
+Pagina (indice:24) foi acessada
+Pagina (indice:36) foi ativada (16 paginas ativas)
+Pagina (indice:36) foi acessada
+Tick - Paginas Ativadas:  0, 3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 24, 25, 36,
+Tick - Paginas Ativadas:  0, 3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 24, 25, 36,
+Pagina (indice:11) foi acessada
+Pagina (indice:0) foi desativada
+Pagina (indice:23) foi ativada (16 paginas ativas)
+Pagina (indice:23) foi acessada
+Tick - Paginas Ativadas:  3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 23, 24, 25, 36,
+Tick - Paginas Ativadas:  3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 23, 24, 25, 36,
+Pagina (indice:4) foi acessada
+Pagina (indice:5) foi desativada
+Pagina (indice:30) foi ativada (16 paginas ativas)
+Pagina (indice:30) foi acessada
+Pagina (indice:8) foi desativada
+Pagina (indice:34) foi ativada (16 paginas ativas)
+Pagina (indice:34) foi acessada
+Tick - Paginas Ativadas:  3, 4, 10, 11, 12, 18, 21, 22, 23, 24, 25, 30, 34, 36,
+Thread (indice:5) criada
+Tick - Paginas Ativadas:  3, 4, 10, 11, 12, 18, 21, 22, 23, 24, 25, 30, 34, 36,
+Pagina (indice:10) foi desativada
+Pagina (indice:8) foi ativada (16 paginas ativas)
+Pagina (indice:8) foi acessada
+Pagina (indice:8) foi desativada
+Pagina (indice:17) foi ativada (16 paginas ativas)
+Pagina (indice:17) foi acessada
+Pagina (indice:12) foi desativada
+Pagina (indice:45) foi ativada (16 paginas ativas)
+Pagina (indice:45) foi acessada
+Tick - Paginas Ativadas:  3, 4, 11, 17, 18, 21, 22, 23, 24, 25, 30, 34, 36, 45,
+Tick - Paginas Ativadas:  3, 4, 11, 17, 18, 21, 22, 23, 24, 25, 30, 34, 36, 45,
+Pagina (indice:18) foi desativada
+Pagina (indice:7) foi ativada (16 paginas ativas)
+Pagina (indice:7) foi acessada
+Pagina (indice:7) foi desativada
+Pagina (indice:31) foi ativada (16 paginas ativas)
+Pagina (indice:31) foi acessada
+Pagina (indice:21) foi desativada
+Pagina (indice:32) foi ativada (16 paginas ativas)
+Pagina (indice:32) foi acessada
+Tick - Paginas Ativadas:  3, 4, 11, 17, 22, 23, 24, 25, 30, 31, 32, 34, 36, 45,
+Tick - Paginas Ativadas:  3, 4, 11, 17, 22, 23, 24, 25, 30, 31, 32, 34, 36, 45,
+Thread (indice:6) criada
+Pagina (indice:11) foi acessada
+Pagina (indice:3) foi desativada
+Pagina (indice:19) foi ativada (16 paginas ativas)
+Pagina (indice:19) foi acessada
+Pagina (indice:19) foi desativada
+Pagina (indice:43) foi ativada (16 paginas ativas)
+Pagina (indice:43) foi acessada
+Pagina (indice:22) foi desativada
+Pagina (indice:52) foi ativada (16 paginas ativas)
+Pagina (indice:52) foi acessada
+Tick - Paginas Ativadas:  4, 11, 17, 23, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
+Tick - Paginas Ativadas:  4, 11, 17, 23, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
+Pagina (indice:23) foi desativada
+Pagina (indice:7) foi ativada (16 paginas ativas)
+Pagina (indice:7) foi acessada
+Pagina (indice:24) foi acessada
+Pagina (indice:32) foi acessada
+Tick - Paginas Ativadas:  4, 7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
+Tick - Paginas Ativadas:  4, 7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
+Pagina (indice:4) foi desativada
+Pagina (indice:8) foi ativada (16 paginas ativas)
+Pagina (indice:8) foi acessada
+Pagina (indice:8) foi desativada
+Pagina (indice:16) foi ativada (16 paginas ativas)
+Pagina (indice:16) foi acessada
+Pagina (indice:43) foi acessada
+Pagina (indice:16) foi desativada
+Pagina (indice:48) foi ativada (16 paginas ativas)
+Pagina (indice:48) foi acessada
+Tick - Paginas Ativadas:  7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 48, 52,
+Thread (indice:7) criada
+Tick - Paginas Ativadas:  7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 48, 52,
+Pagina (indice:17) foi desativada
+Pagina (indice:3) foi ativada (16 paginas ativas)
+Pagina (indice:3) foi acessada
+Pagina (indice:25) foi acessada
+Pagina (indice:3) foi desativada
+Pagina (indice:37) foi ativada (16 paginas ativas)
+Pagina (indice:37) foi acessada
+Pagina (indice:25) foi desativada
+Pagina (indice:60) foi ativada (16 paginas ativas)
+Pagina (indice:60) foi acessada
+Tick - Paginas Ativadas:  7, 11, 24, 30, 31, 32, 34, 36, 37, 43, 45, 48, 52, 60,
+Tick - Paginas Ativadas:  7, 11, 24, 30, 31, 32, 34, 36, 37, 43, 45, 48, 52, 60,
+Pagina (indice:30) foi desativada
+Pagina (indice:12) foi ativada (16 paginas ativas)
+Pagina (indice:12) foi acessada
+Pagina (indice:12) foi desativada
+Pagina (indice:18) foi ativada (16 paginas ativas)
+Pagina (indice:18) foi acessada
+Pagina (indice:18) foi desativada
+Pagina (indice:47) foi ativada (16 paginas ativas)
+Pagina (indice:47) foi acessada
+Pagina (indice:52) foi acessada
+Tick - Paginas Ativadas:  7, 11, 24, 31, 32, 34, 36, 37, 43, 45, 47, 48, 52, 60,
+Tick - Paginas Ativadas:  7, 11, 24, 31, 32, 34, 36, 37, 43, 45, 47, 48, 52, 60,
+Thread (indice:8) criada
+Pagina (indice:11) foi desativada
+Pagina (indice:6) foi ativada (16 paginas ativas)
+Pagina (indice:6) foi acessada
+Pagina (indice:6) foi desativada
+Pagina (indice:26) foi ativada (16 paginas ativas)
+Pagina (indice:26) foi acessada
+Pagina (indice:26) foi desativada
+Pagina (indice:35) foi ativada (16 paginas ativas)
+Pagina (indice:35) foi acessada
+Pagina (indice:31) foi desativada
+Pagina (indice:59) foi ativada (16 paginas ativas)
+Pagina (indice:59) foi acessada
+Pagina (indice:34) foi desativada
+Pagina (indice:65) foi ativada (16 paginas ativas)
+Pagina (indice:65) foi acessada
+Tick - Paginas Ativadas:  7, 24, 32, 35, 36, 37, 43, 45, 47, 48, 52, 59, 60, 65,
+Tick - Paginas Ativadas:  7, 24, 32, 35, 36, 37, 43, 45, 47, 48, 52, 59, 60, 65,
+Pagina (indice:7) foi desativada
+Pagina (indice:13) foi ativada (16 paginas ativas)
+Pagina (indice:13) foi acessada
+Pagina (indice:13) foi desativada
+Pagina (indice:19) foi ativada (16 paginas ativas)
+Pagina (indice:19) foi acessada
+Pagina (indice:19) foi desativada
+Pagina (indice:42) foi ativada (16 paginas ativas)
+Pagina (indice:42) foi acessada
+Pagina (indice:24) foi desativada
+Pagina (indice:51) foi ativada (16 paginas ativas)
+Pagina (indice:51) foi acessada
+Tick - Paginas Ativadas:  32, 35, 36, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 65,
+Tick - Paginas Ativadas:  32, 35, 36, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 65,
+Pagina (indice:32) foi desativada
+Pagina (indice:2) foi ativada (16 paginas ativas)
+Pagina (indice:2) foi acessada
+Pagina (indice:2) foi desativada
+Pagina (indice:26) foi ativada (16 paginas ativas)
+Pagina (indice:26) foi acessada
+Pagina (indice:35) foi acessada
+Pagina (indice:26) foi desativada
+Pagina (indice:61) foi ativada (16 paginas ativas)
+Pagina (indice:61) foi acessada
+Pagina (indice:36) foi desativada
+Pagina (indice:69) foi ativada (16 paginas ativas)
+Pagina (indice:69) foi acessada
+Tick - Paginas Ativadas:  35, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 61, 65, 69,
+Thread (indice:9) criada
+Tick - Paginas Ativadas:  35, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 61, 65, 69,
+Pagina (indice:37) foi desativada
+Pagina (indice:14) foi ativada (16 paginas ativas)
+Pagina (indice:14) foi acessada
+Pagina (indice:14) foi desativada
+Pagina (indice:17) foi ativada (16 paginas ativas)
+Pagina (indice:17) foi acessada
+Pagina (indice:17) foi desativada
+Pagina (indice:44) foi ativada (16 paginas ativas)
+Pagina (indice:44) foi acessada
+Pagina (indice:43) foi desativada
+Pagina (indice:54) foi ativada (16 paginas ativas)
+Pagina (indice:54) foi acessada
+Pagina (indice:44) foi desativada
+Pagina (indice:74) foi ativada (16 paginas ativas)
+Pagina (indice:74) foi acessada
+Tick - Paginas Ativadas:  35, 42, 45, 47, 48, 51, 52, 54, 59, 60, 61, 65, 69, 74,
+Tick - Paginas Ativadas:  35, 42, 45, 47, 48, 51, 52, 54, 59, 60, 61, 65, 69, 74,
+Pagina (indice:45) foi desativada
+Pagina (indice:4) foi ativada (16 paginas ativas)
+Pagina (indice:4) foi acessada
+Pagina (indice:4) foi desativada
+Pagina (indice:31) foi ativada (16 paginas ativas)
+Pagina (indice:31) foi acessada
+Pagina (indice:31) foi desativada
+Pagina (indice:37) foi ativada (16 paginas ativas)
+Pagina (indice:37) foi acessada
+Pagina (indice:61) foi acessada
+Pagina (indice:37) foi desativada
+Pagina (indice:66) foi ativada (16 paginas ativas)
+Pagina (indice:66) foi acessada
+Tick - Paginas Ativadas:  35, 42, 47, 48, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74,
+Tick - Paginas Ativadas:  35, 42, 47, 48, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74,
+Thread (indice:10) criada
+Pagina (indice:47) foi desativada
+Pagina (indice:14) foi ativada (16 paginas ativas)
+Pagina (indice:14) foi acessada
+Pagina (indice:14) foi desativada
+Pagina (indice:18) foi ativada (16 paginas ativas)
+Pagina (indice:18) foi acessada
+Pagina (indice:18) foi desativada
+Pagina (indice:46) foi ativada (16 paginas ativas)
+Pagina (indice:46) foi acessada
+Pagina (indice:46) foi desativada
+Pagina (indice:50) foi ativada (16 paginas ativas)
+Pagina (indice:50) foi acessada
+Pagina (indice:48) foi desativada
+Pagina (indice:76) foi ativada (16 paginas ativas)
+Pagina (indice:76) foi acessada
+Pagina (indice:50) foi desativada
+Pagina (indice:85) foi ativada (16 paginas ativas)
+Pagina (indice:85) foi acessada
+Tick - Paginas Ativadas:  35, 42, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74, 76, 85,
+Tick - Paginas Ativadas:  35, 42, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74, 76, 85,
+Pagina (indice:42) foi desativada
+Pagina (indice:6) foi ativada (16 paginas ativas)
+Pagina (indice:6) foi acessada
+Pagina (indice:6) foi desativada
+Pagina (indice:27) foi ativada (16 paginas ativas)
+Pagina (indice:27) foi acessada
+Pagina (indice:27) foi desativada
+Pagina (indice:39) foi ativada (16 paginas ativas)
+Pagina (indice:39) foi acessada
+Pagina (indice:39) foi desativada
+Pagina (indice:57) foi ativada (16 paginas ativas)
+Pagina (indice:57) foi acessada
+Pagina (indice:51) foi desativada
+Pagina (indice:70) foi ativada (16 paginas ativas)
+Pagina (indice:70) foi acessada
+Tick - Paginas Ativadas:  35, 52, 54, 57, 59, 60, 61, 65, 66, 69, 70, 74, 76, 85,
+Tick - Paginas Ativadas:  35, 52, 54, 57, 59, 60, 61, 65, 66, 69, 70, 74, 76, 85,
+Pagina (indice:35) foi desativada
+Pagina (indice:8) foi ativada (16 paginas ativas)
+Pagina (indice:8) foi acessada
+Pagina (indice:8) foi desativada
+Pagina (indice:22) foi ativada (16 paginas ativas)
+Pagina (indice:22) foi acessada
+Pagina (indice:22) foi desativada
+Pagina (indice:41) foi ativada (16 paginas ativas)
+Pagina (indice:41) foi acessada
+Pagina (indice:41) foi desativada
+Pagina (indice:51) foi ativada (16 paginas ativas)
+Pagina (indice:51) foi acessada
+Pagina (indice:51) foi desativada
+Pagina (indice:73) foi ativada (16 paginas ativas)
+Pagina (indice:73) foi acessada
+Pagina (indice:52) foi desativada
+Pagina (indice:84) foi ativada (16 paginas ativas)
+Pagina (indice:84) foi acessada
+Tick - Paginas Ativadas:  54, 57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85,
+Thread (indice:11) criada
+Tick - Paginas Ativadas:  54, 57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85,
+Pagina (indice:54) foi desativada
+Pagina (indice:5) foi ativada (16 paginas ativas)
+Pagina (indice:5) foi acessada
+Pagina (indice:5) foi desativada
+Pagina (indice:28) foi ativada (16 paginas ativas)
+Pagina (indice:28) foi acessada
+Pagina (indice:28) foi desativada
+Pagina (indice:33) foi ativada (16 paginas ativas)
+Pagina (indice:33) foi acessada
+Pagina (indice:33) foi desativada
+Pagina (indice:58) foi ativada (16 paginas ativas)
+Pagina (indice:58) foi acessada
+Pagina (indice:66) foi acessada
+Pagina (indice:58) foi desativada
+Pagina (indice:91) foi ativada (16 paginas ativas)
+Pagina (indice:91) foi acessada
+Tick - Paginas Ativadas:  57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85, 91,
+Tick - Paginas Ativadas:  57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85, 91,
+Pagina (indice:59) foi desativada
+Pagina (indice:14) foi ativada (16 paginas ativas)
+Pagina (indice:14) foi acessada
+Pagina (indice:14) foi desativada
+Pagina (indice:17) foi ativada (16 paginas ativas)
+Pagina (indice:17) foi acessada
+Pagina (indice:17) foi desativada
+Pagina (indice:45) foi ativada (16 paginas ativas)
+Pagina (indice:45) foi acessada
+Pagina (indice:45) foi desativada
+Pagina (indice:51) foi ativada (16 paginas ativas)
+Pagina (indice:51) foi acessada
+Pagina (indice:51) foi desativada
+Pagina (indice:72) foi ativada (16 paginas ativas)
+Pagina (indice:72) foi acessada
+Pagina (indice:60) foi desativada
+Pagina (indice:82) foi ativada (16 paginas ativas)
+Pagina (indice:82) foi acessada
+Tick - Paginas Ativadas:  57, 61, 65, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 91,
+Tick - Paginas Ativadas:  57, 61, 65, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 91,
+Thread (indice:12) criada
+Pagina (indice:61) foi desativada
+Pagina (indice:0) foi ativada (16 paginas ativas)
+Pagina (indice:0) foi acessada
+Pagina (indice:0) foi desativada
+Pagina (indice:26) foi ativada (16 paginas ativas)
+Pagina (indice:26) foi acessada
+Pagina (indice:26) foi desativada
+Pagina (indice:32) foi ativada (16 paginas ativas)
+Pagina (indice:32) foi acessada
+Pagina (indice:32) foi desativada
+Pagina (indice:58) foi ativada (16 paginas ativas)
+Pagina (indice:58) foi acessada
+Pagina (indice:58) foi desativada
+Pagina (indice:64) foi ativada (16 paginas ativas)
+Pagina (indice:64) foi acessada
+Pagina (indice:64) foi desativada
+Pagina (indice:90) foi ativada (16 paginas ativas)
+Pagina (indice:90) foi acessada
+Pagina (indice:65) foi desativada
+Pagina (indice:102) foi ativada (16 paginas ativas)
+Pagina (indice:102) foi acessada
+Tick - Paginas Ativadas:  57, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 90, 91, 102,
+Tick - Paginas Ativadas:  57, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 90, 91, 102,
+Pagina (indice:57) foi desativada
+Pagina (indice:13) foi ativada (16 paginas ativas)
+Pagina (indice:13) foi acessada
+Pagina (indice:13) foi desativada
+Pagina (indice:16) foi ativada (16 paginas ativas)
+Pagina (indice:16) foi acessada
+Pagina (indice:16) foi desativada
+Pagina (indice:41) foi ativada (16 paginas ativas)
+Pagina (indice:41) foi acessada
+Pagina (indice:41) foi desativada
+Pagina (indice:52) foi ativada (16 paginas ativas)
+Pagina (indice:52) foi acessada
+Pagina (indice:73) foi acessada
+Pagina (indice:52) foi desativada
+Pagina (indice:87) foi ativada (16 paginas ativas)
+Pagina (indice:87) foi acessada
+Tick - Paginas Ativadas:  66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 102,
+Tick - Paginas Ativadas:  66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 102,
+Pagina (indice:69) foi desativada
+Pagina (indice:5) foi ativada (16 paginas ativas)
+Pagina (indice:5) foi acessada
+Pagina (indice:5) foi desativada
+Pagina (indice:31) foi ativada (16 paginas ativas)
+Pagina (indice:31) foi acessada
+Pagina (indice:31) foi desativada
+Pagina (indice:33) foi ativada (16 paginas ativas)
+Pagina (indice:33) foi acessada
+Pagina (indice:33) foi desativada
+Pagina (indice:56) foi ativada (16 paginas ativas)
+Pagina (indice:56) foi acessada
+Pagina (indice:56) foi desativada
+Pagina (indice:65) foi ativada (16 paginas ativas)
+Pagina (indice:65) foi acessada
+Pagina (indice:65) foi desativada
+Pagina (indice:93) foi ativada (16 paginas ativas)
+Pagina (indice:93) foi acessada
+Pagina (indice:70) foi desativada
+Pagina (indice:101) foi ativada (16 paginas ativas)
+Pagina (indice:101) foi acessada
+Tick - Paginas Ativadas:  66, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102,
+Thread (indice:13) criada
+Tick - Paginas Ativadas:  66, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102,
+Pagina (indice:66) foi desativada
+Pagina (indice:13) foi ativada (16 paginas ativas)
+Pagina (indice:13) foi acessada
+Pagina (indice:13) foi desativada
+Pagina (indice:22) foi ativada (16 paginas ativas)
+Pagina (indice:22) foi acessada
+Pagina (indice:22) foi desativada
+Pagina (indice:47) foi ativada (16 paginas ativas)
+Pagina (indice:47) foi acessada
+Pagina (indice:47) foi desativada
+Pagina (indice:48) foi ativada (16 paginas ativas)
+Pagina (indice:48) foi acessada
+Pagina (indice:73) foi acessada
+Pagina (indice:85) foi acessada
+Pagina (indice:48) foi desativada
+Pagina (indice:105) foi ativada (16 paginas ativas)
+Pagina (indice:105) foi acessada
+Tick - Paginas Ativadas:  72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102, 105,
+Tick - Paginas Ativadas:  72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102, 105,
+Pagina (indice:72) foi desativada
+Pagina (indice:6) foi ativada (16 paginas ativas)
+Pagina (indice:6) foi acessada
+Pagina (indice:6) foi desativada
+Pagina (indice:24) foi ativada (16 paginas ativas)
+Pagina (indice:24) foi acessada
+Pagina (indice:24) foi desativada
+Pagina (indice:33) foi ativada (16 paginas ativas)
+Pagina (indice:33) foi acessada
+Pagina (indice:33) foi desativada
+Pagina (indice:56) foi ativada (16 paginas ativas)
+Pagina (indice:56) foi acessada
+Pagina (indice:56) foi desativada
+Pagina (indice:64) foi ativada (16 paginas ativas)
+Pagina (indice:64) foi acessada
+Pagina (indice:91) foi acessada
+Pagina (indice:64) foi desativada
+Pagina (indice:96) foi ativada (16 paginas ativas)
+Pagina (indice:96) foi acessada
+Tick - Paginas Ativadas:  73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105,
+Tick - Paginas Ativadas:  73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105,
+Thread (indice:14) criada
+Pagina (indice:74) foi desativada
+Pagina (indice:10) foi ativada (16 paginas ativas)
+Pagina (indice:10) foi acessada
+Pagina (indice:10) foi desativada
+Pagina (indice:19) foi ativada (16 paginas ativas)
+Pagina (indice:19) foi acessada
+Pagina (indice:19) foi desativada
+Pagina (indice:42) foi ativada (16 paginas ativas)
+Pagina (indice:42) foi acessada
+Pagina (indice:42) foi desativada
+Pagina (indice:49) foi ativada (16 paginas ativas)
+Pagina (indice:49) foi acessada
+Pagina (indice:49) foi desativada
+Pagina (indice:72) foi ativada (16 paginas ativas)
+Pagina (indice:72) foi acessada
+Pagina (indice:82) foi acessada
+Pagina (indice:72) foi desativada
+Pagina (indice:106) foi ativada (16 paginas ativas)
+Pagina (indice:106) foi acessada
+Pagina (indice:76) foi desativada
+Pagina (indice:116) foi ativada (16 paginas ativas)
+Pagina (indice:116) foi acessada
+Tick - Paginas Ativadas:  73, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105, 106, 116,
+Tick - Paginas Ativadas:  73, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105, 106, 116,
+Pagina (indice:84) foi desativada
+Pagina (indice:3) foi ativada (16 paginas ativas)
+Pagina (indice:3) foi acessada
+Pagina (indice:3) foi desativada
+Pagina (indice:26) foi ativada (16 paginas ativas)
+Pagina (indice:26) foi acessada
+Pagina (indice:26) foi desativada
+Pagina (indice:33) foi ativada (16 paginas ativas)
+Pagina (indice:33) foi acessada
+Pagina (indice:33) foi desativada
+Pagina (indice:59) foi ativada (16 paginas ativas)
+Pagina (indice:59) foi acessada
+Pagina (indice:59) foi desativada
+Pagina (indice:67) foi ativada (16 paginas ativas)
+Pagina (indice:67) foi acessada
+Pagina (indice:67) foi desativada
+Pagina (indice:89) foi ativada (16 paginas ativas)
+Pagina (indice:89) foi acessada
+Pagina (indice:87) foi desativada
+Pagina (indice:100) foi ativada (16 paginas ativas)
+Pagina (indice:100) foi acessada
+Tick - Paginas Ativadas:  73, 82, 85, 89, 90, 91, 93, 96, 100, 101, 102, 105, 106, 116,
+Tick - Paginas Ativadas:  73, 82, 85, 89, 90, 91, 93, 96, 100, 101, 102, 105, 106, 116,
+Pagina (indice:90) foi desativada
+Pagina (indice:8) foi ativada (16 paginas ativas)
+Pagina (indice:8) foi acessada
+Pagina (indice:8) foi desativada
+Pagina (indice:22) foi ativada (16 paginas ativas)
+Pagina (indice:22) foi acessada
+Pagina (indice:22) foi desativada
+Pagina (indice:41) foi ativada (16 paginas ativas)
+Pagina (indice:41) foi acessada
+Pagina (indice:41) foi desativada
+Pagina (indice:54) foi ativada (16 paginas ativas)
+Pagina (indice:54) foi acessada
+Pagina (indice:54) foi desativada
+Pagina (indice:77) foi ativada (16 paginas ativas)
+Pagina (indice:77) foi acessada
+Pagina (indice:77) foi desativada
+Pagina (indice:81) foi ativada (16 paginas ativas)
+Pagina (indice:81) foi acessada
+Pagina (indice:81) foi desativada
+Pagina (indice:104) foi ativada (16 paginas ativas)
+Pagina (indice:104) foi acessada
+Pagina (indice:93) foi desativada
+Pagina (indice:115) foi ativada (16 paginas ativas)
+Pagina (indice:115) foi acessada
+Tick - Paginas Ativadas:  73, 82, 85, 89, 91, 96, 100, 101, 102, 104, 105, 106, 115, 116,
+Thread (indice:15) criada
+Tick - Paginas Ativadas:  73, 82, 85, 89, 91, 96, 100, 101, 102, 104, 105, 106, 115, 116,
+Pagina (indice:73) foi desativada
+Pagina (indice:2) foi ativada (16 paginas ativas)
+Pagina (indice:2) foi acessada
+Pagina (indice:2) foi desativada
+Pagina (indice:30) foi ativada (16 paginas ativas)
+Pagina (indice:30) foi acessada
+Pagina (indice:30) foi desativada
+Pagina (indice:35) foi ativada (16 paginas ativas)
+Pagina (indice:35) foi acessada
+Pagina (indice:35) foi desativada
+Pagina (indice:59) foi ativada (16 paginas ativas)
+Pagina (indice:59) foi acessada
+Pagina (indice:59) foi desativada
+Pagina (indice:71) foi ativada (16 paginas ativas)
+Pagina (indice:71) foi acessada
+Pagina (indice:71) foi desativada
+Pagina (indice:92) foi ativada (16 paginas ativas)
+Pagina (indice:92) foi acessada
+Pagina (indice:102) foi acessada
+Pagina (indice:85) foi desativada
+Pagina (indice:127) foi ativada (16 paginas ativas)
+Pagina (indice:127) foi acessada
+Tick - Paginas Ativadas:  82, 89, 91, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 127,
+Tick - Paginas Ativadas:  82, 89, 91, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 127,
+Pagina (indice:91) foi desativada
+Pagina (indice:14) foi ativada (16 paginas ativas)
+Pagina (indice:14) foi acessada
+Pagina (indice:14) foi desativada
+Pagina (indice:17) foi ativada (16 paginas ativas)
+Pagina (indice:17) foi acessada
+Pagina (indice:17) foi desativada
+Pagina (indice:42) foi ativada (16 paginas ativas)
+Pagina (indice:42) foi acessada
+Pagina (indice:42) foi desativada
+Pagina (indice:55) foi ativada (16 paginas ativas)
+Pagina (indice:55) foi acessada
+Pagina (indice:55) foi desativada
+Pagina (indice:73) foi ativada (16 paginas ativas)
+Pagina (indice:73) foi acessada
+Pagina (indice:73) foi desativada
+Pagina (indice:84) foi ativada (16 paginas ativas)
+Pagina (indice:84) foi acessada
+Pagina (indice:106) foi acessada
+Pagina (indice:84) foi desativada
+Pagina (indice:118) foi ativada (16 paginas ativas)
+Pagina (indice:118) foi acessada
+Tick - Paginas Ativadas:  82, 89, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 118, 127,
+Tick - Paginas Ativadas:  82, 89, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 118, 127,

@@ -13,6 +13,7 @@ int numThreads = 0;
 int main(void) {
     int i, j;
     int randomIndex;
+    srand(time(NULL));
     for (i = 0; i < THREADS * THREAD_CREATION_INTERVAL; i++) {
         if (i % THREAD_CREATION_INTERVAL == 0) {
             printf("Thread (indice:%d) criada\n", numThreads);
