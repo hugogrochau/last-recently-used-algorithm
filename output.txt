@@ -1,558 +1,1008 @@
-Thread (indice:0) criada
-Pagina (indice:4) foi ativada (1 paginas ativas)
-Pagina (indice:4) foi acessada
-Tick - Paginas Ativadas:  4,
-Tick - Paginas Ativadas:  4,
-Tick - Paginas Ativadas:  4,
-Tick - Paginas Ativadas:  4,
-Pagina (indice:5) foi ativada (2 paginas ativas)
-Pagina (indice:5) foi acessada
-Tick - Paginas Ativadas:  4, 5,
-Thread (indice:1) criada
-Tick - Paginas Ativadas:  4, 5,
-Pagina (indice:12) foi ativada (3 paginas ativas)
-Pagina (indice:12) foi acessada
-Tick - Paginas Ativadas:  4, 5, 12,
-Tick - Paginas Ativadas:  4, 5, 12,
-Pagina (indice:0) foi ativada (4 paginas ativas)
-Pagina (indice:0) foi acessada
-Tick - Paginas Ativadas:  0, 4, 5, 12,
-Tick - Paginas Ativadas:  0, 4, 5, 12,
-Thread (indice:2) criada
-Pagina (indice:8) foi ativada (5 paginas ativas)
-Pagina (indice:8) foi acessada
-Pagina (indice:18) foi ativada (6 paginas ativas)
-Pagina (indice:18) foi acessada
-Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
-Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
-Pagina (indice:0) foi acessada
-Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
-Tick - Paginas Ativadas:  0, 4, 5, 8, 12, 18,
-Pagina (indice:10) foi ativada (8 paginas ativas)
-Pagina (indice:10) foi acessada
-Pagina (indice:22) foi ativada (9 paginas ativas)
-Pagina (indice:22) foi acessada
-Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22,
-Thread (indice:3) criada
-Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22,
-Pagina (indice:4) foi acessada
-Pagina (indice:25) foi ativada (11 paginas ativas)
-Pagina (indice:25) foi acessada
-Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22, 25,
-Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 12, 18, 22, 25,
-Pagina (indice:11) foi ativada (12 paginas ativas)
-Pagina (indice:11) foi acessada
-Pagina (indice:21) foi ativada (13 paginas ativas)
-Pagina (indice:21) foi acessada
-Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 11, 12, 18, 21, 22, 25,
-Tick - Paginas Ativadas:  0, 4, 5, 8, 10, 11, 12, 18, 21, 22, 25,
-Thread (indice:4) criada
-Pagina (indice:3) foi ativada (14 paginas ativas)
-Pagina (indice:3) foi acessada
-Pagina (indice:24) foi ativada (15 paginas ativas)
-Pagina (indice:24) foi acessada
-Pagina (indice:36) foi ativada (16 paginas ativas)
-Pagina (indice:36) foi acessada
-Tick - Paginas Ativadas:  0, 3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 24, 25, 36,
-Tick - Paginas Ativadas:  0, 3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 24, 25, 36,
-Pagina (indice:11) foi acessada
-Pagina (indice:0) foi desativada
-Pagina (indice:23) foi ativada (16 paginas ativas)
-Pagina (indice:23) foi acessada
-Tick - Paginas Ativadas:  3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 23, 24, 25, 36,
-Tick - Paginas Ativadas:  3, 4, 5, 8, 10, 11, 12, 18, 21, 22, 23, 24, 25, 36,
-Pagina (indice:4) foi acessada
-Pagina (indice:5) foi desativada
-Pagina (indice:30) foi ativada (16 paginas ativas)
-Pagina (indice:30) foi acessada
-Pagina (indice:8) foi desativada
-Pagina (indice:34) foi ativada (16 paginas ativas)
-Pagina (indice:34) foi acessada
-Tick - Paginas Ativadas:  3, 4, 10, 11, 12, 18, 21, 22, 23, 24, 25, 30, 34, 36,
-Thread (indice:5) criada
-Tick - Paginas Ativadas:  3, 4, 10, 11, 12, 18, 21, 22, 23, 24, 25, 30, 34, 36,
-Pagina (indice:10) foi desativada
-Pagina (indice:8) foi ativada (16 paginas ativas)
-Pagina (indice:8) foi acessada
-Pagina (indice:8) foi desativada
-Pagina (indice:17) foi ativada (16 paginas ativas)
-Pagina (indice:17) foi acessada
-Pagina (indice:12) foi desativada
-Pagina (indice:45) foi ativada (16 paginas ativas)
-Pagina (indice:45) foi acessada
-Tick - Paginas Ativadas:  3, 4, 11, 17, 18, 21, 22, 23, 24, 25, 30, 34, 36, 45,
-Tick - Paginas Ativadas:  3, 4, 11, 17, 18, 21, 22, 23, 24, 25, 30, 34, 36, 45,
-Pagina (indice:18) foi desativada
-Pagina (indice:7) foi ativada (16 paginas ativas)
-Pagina (indice:7) foi acessada
-Pagina (indice:7) foi desativada
-Pagina (indice:31) foi ativada (16 paginas ativas)
-Pagina (indice:31) foi acessada
-Pagina (indice:21) foi desativada
-Pagina (indice:32) foi ativada (16 paginas ativas)
-Pagina (indice:32) foi acessada
-Tick - Paginas Ativadas:  3, 4, 11, 17, 22, 23, 24, 25, 30, 31, 32, 34, 36, 45,
-Tick - Paginas Ativadas:  3, 4, 11, 17, 22, 23, 24, 25, 30, 31, 32, 34, 36, 45,
-Thread (indice:6) criada
-Pagina (indice:11) foi acessada
-Pagina (indice:3) foi desativada
-Pagina (indice:19) foi ativada (16 paginas ativas)
-Pagina (indice:19) foi acessada
-Pagina (indice:19) foi desativada
-Pagina (indice:43) foi ativada (16 paginas ativas)
-Pagina (indice:43) foi acessada
-Pagina (indice:22) foi desativada
-Pagina (indice:52) foi ativada (16 paginas ativas)
-Pagina (indice:52) foi acessada
-Tick - Paginas Ativadas:  4, 11, 17, 23, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
-Tick - Paginas Ativadas:  4, 11, 17, 23, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
-Pagina (indice:23) foi desativada
-Pagina (indice:7) foi ativada (16 paginas ativas)
-Pagina (indice:7) foi acessada
-Pagina (indice:24) foi acessada
-Pagina (indice:32) foi acessada
-Tick - Paginas Ativadas:  4, 7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
-Tick - Paginas Ativadas:  4, 7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 52,
-Pagina (indice:4) foi desativada
-Pagina (indice:8) foi ativada (16 paginas ativas)
-Pagina (indice:8) foi acessada
-Pagina (indice:8) foi desativada
-Pagina (indice:16) foi ativada (16 paginas ativas)
-Pagina (indice:16) foi acessada
-Pagina (indice:43) foi acessada
-Pagina (indice:16) foi desativada
-Pagina (indice:48) foi ativada (16 paginas ativas)
-Pagina (indice:48) foi acessada
-Tick - Paginas Ativadas:  7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 48, 52,
-Thread (indice:7) criada
-Tick - Paginas Ativadas:  7, 11, 17, 24, 25, 30, 31, 32, 34, 36, 43, 45, 48, 52,
-Pagina (indice:17) foi desativada
-Pagina (indice:3) foi ativada (16 paginas ativas)
-Pagina (indice:3) foi acessada
-Pagina (indice:25) foi acessada
-Pagina (indice:3) foi desativada
-Pagina (indice:37) foi ativada (16 paginas ativas)
-Pagina (indice:37) foi acessada
-Pagina (indice:25) foi desativada
-Pagina (indice:60) foi ativada (16 paginas ativas)
-Pagina (indice:60) foi acessada
-Tick - Paginas Ativadas:  7, 11, 24, 30, 31, 32, 34, 36, 37, 43, 45, 48, 52, 60,
-Tick - Paginas Ativadas:  7, 11, 24, 30, 31, 32, 34, 36, 37, 43, 45, 48, 52, 60,
-Pagina (indice:30) foi desativada
-Pagina (indice:12) foi ativada (16 paginas ativas)
-Pagina (indice:12) foi acessada
-Pagina (indice:12) foi desativada
-Pagina (indice:18) foi ativada (16 paginas ativas)
-Pagina (indice:18) foi acessada
-Pagina (indice:18) foi desativada
-Pagina (indice:47) foi ativada (16 paginas ativas)
-Pagina (indice:47) foi acessada
-Pagina (indice:52) foi acessada
-Tick - Paginas Ativadas:  7, 11, 24, 31, 32, 34, 36, 37, 43, 45, 47, 48, 52, 60,
-Tick - Paginas Ativadas:  7, 11, 24, 31, 32, 34, 36, 37, 43, 45, 47, 48, 52, 60,
-Thread (indice:8) criada
-Pagina (indice:11) foi desativada
-Pagina (indice:6) foi ativada (16 paginas ativas)
-Pagina (indice:6) foi acessada
-Pagina (indice:6) foi desativada
-Pagina (indice:26) foi ativada (16 paginas ativas)
-Pagina (indice:26) foi acessada
-Pagina (indice:26) foi desativada
-Pagina (indice:35) foi ativada (16 paginas ativas)
-Pagina (indice:35) foi acessada
-Pagina (indice:31) foi desativada
-Pagina (indice:59) foi ativada (16 paginas ativas)
-Pagina (indice:59) foi acessada
-Pagina (indice:34) foi desativada
-Pagina (indice:65) foi ativada (16 paginas ativas)
-Pagina (indice:65) foi acessada
-Tick - Paginas Ativadas:  7, 24, 32, 35, 36, 37, 43, 45, 47, 48, 52, 59, 60, 65,
-Tick - Paginas Ativadas:  7, 24, 32, 35, 36, 37, 43, 45, 47, 48, 52, 59, 60, 65,
-Pagina (indice:7) foi desativada
-Pagina (indice:13) foi ativada (16 paginas ativas)
-Pagina (indice:13) foi acessada
-Pagina (indice:13) foi desativada
-Pagina (indice:19) foi ativada (16 paginas ativas)
-Pagina (indice:19) foi acessada
-Pagina (indice:19) foi desativada
-Pagina (indice:42) foi ativada (16 paginas ativas)
-Pagina (indice:42) foi acessada
-Pagina (indice:24) foi desativada
-Pagina (indice:51) foi ativada (16 paginas ativas)
-Pagina (indice:51) foi acessada
-Tick - Paginas Ativadas:  32, 35, 36, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 65,
-Tick - Paginas Ativadas:  32, 35, 36, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 65,
-Pagina (indice:32) foi desativada
-Pagina (indice:2) foi ativada (16 paginas ativas)
-Pagina (indice:2) foi acessada
-Pagina (indice:2) foi desativada
-Pagina (indice:26) foi ativada (16 paginas ativas)
-Pagina (indice:26) foi acessada
-Pagina (indice:35) foi acessada
-Pagina (indice:26) foi desativada
-Pagina (indice:61) foi ativada (16 paginas ativas)
-Pagina (indice:61) foi acessada
-Pagina (indice:36) foi desativada
-Pagina (indice:69) foi ativada (16 paginas ativas)
-Pagina (indice:69) foi acessada
-Tick - Paginas Ativadas:  35, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 61, 65, 69,
-Thread (indice:9) criada
-Tick - Paginas Ativadas:  35, 37, 42, 43, 45, 47, 48, 51, 52, 59, 60, 61, 65, 69,
-Pagina (indice:37) foi desativada
-Pagina (indice:14) foi ativada (16 paginas ativas)
-Pagina (indice:14) foi acessada
-Pagina (indice:14) foi desativada
-Pagina (indice:17) foi ativada (16 paginas ativas)
-Pagina (indice:17) foi acessada
-Pagina (indice:17) foi desativada
-Pagina (indice:44) foi ativada (16 paginas ativas)
-Pagina (indice:44) foi acessada
-Pagina (indice:43) foi desativada
-Pagina (indice:54) foi ativada (16 paginas ativas)
-Pagina (indice:54) foi acessada
-Pagina (indice:44) foi desativada
-Pagina (indice:74) foi ativada (16 paginas ativas)
-Pagina (indice:74) foi acessada
-Tick - Paginas Ativadas:  35, 42, 45, 47, 48, 51, 52, 54, 59, 60, 61, 65, 69, 74,
-Tick - Paginas Ativadas:  35, 42, 45, 47, 48, 51, 52, 54, 59, 60, 61, 65, 69, 74,
-Pagina (indice:45) foi desativada
-Pagina (indice:4) foi ativada (16 paginas ativas)
-Pagina (indice:4) foi acessada
-Pagina (indice:4) foi desativada
-Pagina (indice:31) foi ativada (16 paginas ativas)
-Pagina (indice:31) foi acessada
-Pagina (indice:31) foi desativada
-Pagina (indice:37) foi ativada (16 paginas ativas)
-Pagina (indice:37) foi acessada
-Pagina (indice:61) foi acessada
-Pagina (indice:37) foi desativada
-Pagina (indice:66) foi ativada (16 paginas ativas)
-Pagina (indice:66) foi acessada
-Tick - Paginas Ativadas:  35, 42, 47, 48, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74,
-Tick - Paginas Ativadas:  35, 42, 47, 48, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74,
-Thread (indice:10) criada
-Pagina (indice:47) foi desativada
-Pagina (indice:14) foi ativada (16 paginas ativas)
-Pagina (indice:14) foi acessada
-Pagina (indice:14) foi desativada
-Pagina (indice:18) foi ativada (16 paginas ativas)
-Pagina (indice:18) foi acessada
-Pagina (indice:18) foi desativada
-Pagina (indice:46) foi ativada (16 paginas ativas)
-Pagina (indice:46) foi acessada
-Pagina (indice:46) foi desativada
-Pagina (indice:50) foi ativada (16 paginas ativas)
-Pagina (indice:50) foi acessada
-Pagina (indice:48) foi desativada
-Pagina (indice:76) foi ativada (16 paginas ativas)
-Pagina (indice:76) foi acessada
-Pagina (indice:50) foi desativada
-Pagina (indice:85) foi ativada (16 paginas ativas)
-Pagina (indice:85) foi acessada
-Tick - Paginas Ativadas:  35, 42, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74, 76, 85,
-Tick - Paginas Ativadas:  35, 42, 51, 52, 54, 59, 60, 61, 65, 66, 69, 74, 76, 85,
-Pagina (indice:42) foi desativada
-Pagina (indice:6) foi ativada (16 paginas ativas)
-Pagina (indice:6) foi acessada
-Pagina (indice:6) foi desativada
-Pagina (indice:27) foi ativada (16 paginas ativas)
-Pagina (indice:27) foi acessada
-Pagina (indice:27) foi desativada
-Pagina (indice:39) foi ativada (16 paginas ativas)
-Pagina (indice:39) foi acessada
-Pagina (indice:39) foi desativada
-Pagina (indice:57) foi ativada (16 paginas ativas)
-Pagina (indice:57) foi acessada
-Pagina (indice:51) foi desativada
-Pagina (indice:70) foi ativada (16 paginas ativas)
-Pagina (indice:70) foi acessada
-Tick - Paginas Ativadas:  35, 52, 54, 57, 59, 60, 61, 65, 66, 69, 70, 74, 76, 85,
-Tick - Paginas Ativadas:  35, 52, 54, 57, 59, 60, 61, 65, 66, 69, 70, 74, 76, 85,
-Pagina (indice:35) foi desativada
-Pagina (indice:8) foi ativada (16 paginas ativas)
-Pagina (indice:8) foi acessada
-Pagina (indice:8) foi desativada
-Pagina (indice:22) foi ativada (16 paginas ativas)
-Pagina (indice:22) foi acessada
-Pagina (indice:22) foi desativada
-Pagina (indice:41) foi ativada (16 paginas ativas)
-Pagina (indice:41) foi acessada
-Pagina (indice:41) foi desativada
-Pagina (indice:51) foi ativada (16 paginas ativas)
-Pagina (indice:51) foi acessada
-Pagina (indice:51) foi desativada
-Pagina (indice:73) foi ativada (16 paginas ativas)
-Pagina (indice:73) foi acessada
-Pagina (indice:52) foi desativada
-Pagina (indice:84) foi ativada (16 paginas ativas)
-Pagina (indice:84) foi acessada
-Tick - Paginas Ativadas:  54, 57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85,
-Thread (indice:11) criada
-Tick - Paginas Ativadas:  54, 57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85,
-Pagina (indice:54) foi desativada
-Pagina (indice:5) foi ativada (16 paginas ativas)
-Pagina (indice:5) foi acessada
-Pagina (indice:5) foi desativada
-Pagina (indice:28) foi ativada (16 paginas ativas)
-Pagina (indice:28) foi acessada
-Pagina (indice:28) foi desativada
-Pagina (indice:33) foi ativada (16 paginas ativas)
-Pagina (indice:33) foi acessada
-Pagina (indice:33) foi desativada
-Pagina (indice:58) foi ativada (16 paginas ativas)
-Pagina (indice:58) foi acessada
-Pagina (indice:66) foi acessada
-Pagina (indice:58) foi desativada
-Pagina (indice:91) foi ativada (16 paginas ativas)
-Pagina (indice:91) foi acessada
-Tick - Paginas Ativadas:  57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85, 91,
-Tick - Paginas Ativadas:  57, 59, 60, 61, 65, 66, 69, 70, 73, 74, 76, 84, 85, 91,
-Pagina (indice:59) foi desativada
-Pagina (indice:14) foi ativada (16 paginas ativas)
-Pagina (indice:14) foi acessada
-Pagina (indice:14) foi desativada
-Pagina (indice:17) foi ativada (16 paginas ativas)
-Pagina (indice:17) foi acessada
-Pagina (indice:17) foi desativada
-Pagina (indice:45) foi ativada (16 paginas ativas)
-Pagina (indice:45) foi acessada
-Pagina (indice:45) foi desativada
-Pagina (indice:51) foi ativada (16 paginas ativas)
-Pagina (indice:51) foi acessada
-Pagina (indice:51) foi desativada
-Pagina (indice:72) foi ativada (16 paginas ativas)
-Pagina (indice:72) foi acessada
-Pagina (indice:60) foi desativada
-Pagina (indice:82) foi ativada (16 paginas ativas)
-Pagina (indice:82) foi acessada
-Tick - Paginas Ativadas:  57, 61, 65, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 91,
-Tick - Paginas Ativadas:  57, 61, 65, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 91,
-Thread (indice:12) criada
-Pagina (indice:61) foi desativada
-Pagina (indice:0) foi ativada (16 paginas ativas)
-Pagina (indice:0) foi acessada
-Pagina (indice:0) foi desativada
-Pagina (indice:26) foi ativada (16 paginas ativas)
-Pagina (indice:26) foi acessada
-Pagina (indice:26) foi desativada
-Pagina (indice:32) foi ativada (16 paginas ativas)
-Pagina (indice:32) foi acessada
-Pagina (indice:32) foi desativada
-Pagina (indice:58) foi ativada (16 paginas ativas)
-Pagina (indice:58) foi acessada
-Pagina (indice:58) foi desativada
-Pagina (indice:64) foi ativada (16 paginas ativas)
-Pagina (indice:64) foi acessada
-Pagina (indice:64) foi desativada
-Pagina (indice:90) foi ativada (16 paginas ativas)
-Pagina (indice:90) foi acessada
-Pagina (indice:65) foi desativada
-Pagina (indice:102) foi ativada (16 paginas ativas)
-Pagina (indice:102) foi acessada
-Tick - Paginas Ativadas:  57, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 90, 91, 102,
-Tick - Paginas Ativadas:  57, 66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 90, 91, 102,
-Pagina (indice:57) foi desativada
-Pagina (indice:13) foi ativada (16 paginas ativas)
-Pagina (indice:13) foi acessada
-Pagina (indice:13) foi desativada
-Pagina (indice:16) foi ativada (16 paginas ativas)
-Pagina (indice:16) foi acessada
-Pagina (indice:16) foi desativada
-Pagina (indice:41) foi ativada (16 paginas ativas)
-Pagina (indice:41) foi acessada
-Pagina (indice:41) foi desativada
-Pagina (indice:52) foi ativada (16 paginas ativas)
-Pagina (indice:52) foi acessada
-Pagina (indice:73) foi acessada
-Pagina (indice:52) foi desativada
-Pagina (indice:87) foi ativada (16 paginas ativas)
-Pagina (indice:87) foi acessada
-Tick - Paginas Ativadas:  66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 102,
-Tick - Paginas Ativadas:  66, 69, 70, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 102,
-Pagina (indice:69) foi desativada
-Pagina (indice:5) foi ativada (16 paginas ativas)
-Pagina (indice:5) foi acessada
-Pagina (indice:5) foi desativada
-Pagina (indice:31) foi ativada (16 paginas ativas)
-Pagina (indice:31) foi acessada
-Pagina (indice:31) foi desativada
-Pagina (indice:33) foi ativada (16 paginas ativas)
-Pagina (indice:33) foi acessada
-Pagina (indice:33) foi desativada
-Pagina (indice:56) foi ativada (16 paginas ativas)
-Pagina (indice:56) foi acessada
-Pagina (indice:56) foi desativada
-Pagina (indice:65) foi ativada (16 paginas ativas)
-Pagina (indice:65) foi acessada
-Pagina (indice:65) foi desativada
-Pagina (indice:93) foi ativada (16 paginas ativas)
-Pagina (indice:93) foi acessada
-Pagina (indice:70) foi desativada
-Pagina (indice:101) foi ativada (16 paginas ativas)
-Pagina (indice:101) foi acessada
-Tick - Paginas Ativadas:  66, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102,
-Thread (indice:13) criada
-Tick - Paginas Ativadas:  66, 72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102,
-Pagina (indice:66) foi desativada
-Pagina (indice:13) foi ativada (16 paginas ativas)
-Pagina (indice:13) foi acessada
-Pagina (indice:13) foi desativada
-Pagina (indice:22) foi ativada (16 paginas ativas)
-Pagina (indice:22) foi acessada
-Pagina (indice:22) foi desativada
-Pagina (indice:47) foi ativada (16 paginas ativas)
-Pagina (indice:47) foi acessada
-Pagina (indice:47) foi desativada
-Pagina (indice:48) foi ativada (16 paginas ativas)
-Pagina (indice:48) foi acessada
-Pagina (indice:73) foi acessada
-Pagina (indice:85) foi acessada
-Pagina (indice:48) foi desativada
-Pagina (indice:105) foi ativada (16 paginas ativas)
-Pagina (indice:105) foi acessada
-Tick - Paginas Ativadas:  72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102, 105,
-Tick - Paginas Ativadas:  72, 73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 101, 102, 105,
-Pagina (indice:72) foi desativada
-Pagina (indice:6) foi ativada (16 paginas ativas)
-Pagina (indice:6) foi acessada
-Pagina (indice:6) foi desativada
-Pagina (indice:24) foi ativada (16 paginas ativas)
-Pagina (indice:24) foi acessada
-Pagina (indice:24) foi desativada
-Pagina (indice:33) foi ativada (16 paginas ativas)
-Pagina (indice:33) foi acessada
-Pagina (indice:33) foi desativada
-Pagina (indice:56) foi ativada (16 paginas ativas)
-Pagina (indice:56) foi acessada
-Pagina (indice:56) foi desativada
-Pagina (indice:64) foi ativada (16 paginas ativas)
-Pagina (indice:64) foi acessada
-Pagina (indice:91) foi acessada
-Pagina (indice:64) foi desativada
-Pagina (indice:96) foi ativada (16 paginas ativas)
-Pagina (indice:96) foi acessada
-Tick - Paginas Ativadas:  73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105,
-Tick - Paginas Ativadas:  73, 74, 76, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105,
-Thread (indice:14) criada
-Pagina (indice:74) foi desativada
-Pagina (indice:10) foi ativada (16 paginas ativas)
-Pagina (indice:10) foi acessada
-Pagina (indice:10) foi desativada
-Pagina (indice:19) foi ativada (16 paginas ativas)
-Pagina (indice:19) foi acessada
-Pagina (indice:19) foi desativada
-Pagina (indice:42) foi ativada (16 paginas ativas)
-Pagina (indice:42) foi acessada
-Pagina (indice:42) foi desativada
-Pagina (indice:49) foi ativada (16 paginas ativas)
-Pagina (indice:49) foi acessada
-Pagina (indice:49) foi desativada
-Pagina (indice:72) foi ativada (16 paginas ativas)
-Pagina (indice:72) foi acessada
-Pagina (indice:82) foi acessada
-Pagina (indice:72) foi desativada
-Pagina (indice:106) foi ativada (16 paginas ativas)
-Pagina (indice:106) foi acessada
-Pagina (indice:76) foi desativada
-Pagina (indice:116) foi ativada (16 paginas ativas)
-Pagina (indice:116) foi acessada
-Tick - Paginas Ativadas:  73, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105, 106, 116,
-Tick - Paginas Ativadas:  73, 82, 84, 85, 87, 90, 91, 93, 96, 101, 102, 105, 106, 116,
-Pagina (indice:84) foi desativada
-Pagina (indice:3) foi ativada (16 paginas ativas)
-Pagina (indice:3) foi acessada
-Pagina (indice:3) foi desativada
-Pagina (indice:26) foi ativada (16 paginas ativas)
-Pagina (indice:26) foi acessada
-Pagina (indice:26) foi desativada
-Pagina (indice:33) foi ativada (16 paginas ativas)
-Pagina (indice:33) foi acessada
-Pagina (indice:33) foi desativada
-Pagina (indice:59) foi ativada (16 paginas ativas)
-Pagina (indice:59) foi acessada
-Pagina (indice:59) foi desativada
-Pagina (indice:67) foi ativada (16 paginas ativas)
-Pagina (indice:67) foi acessada
-Pagina (indice:67) foi desativada
-Pagina (indice:89) foi ativada (16 paginas ativas)
-Pagina (indice:89) foi acessada
-Pagina (indice:87) foi desativada
-Pagina (indice:100) foi ativada (16 paginas ativas)
-Pagina (indice:100) foi acessada
-Tick - Paginas Ativadas:  73, 82, 85, 89, 90, 91, 93, 96, 100, 101, 102, 105, 106, 116,
-Tick - Paginas Ativadas:  73, 82, 85, 89, 90, 91, 93, 96, 100, 101, 102, 105, 106, 116,
-Pagina (indice:90) foi desativada
-Pagina (indice:8) foi ativada (16 paginas ativas)
-Pagina (indice:8) foi acessada
-Pagina (indice:8) foi desativada
-Pagina (indice:22) foi ativada (16 paginas ativas)
-Pagina (indice:22) foi acessada
-Pagina (indice:22) foi desativada
-Pagina (indice:41) foi ativada (16 paginas ativas)
-Pagina (indice:41) foi acessada
-Pagina (indice:41) foi desativada
-Pagina (indice:54) foi ativada (16 paginas ativas)
-Pagina (indice:54) foi acessada
-Pagina (indice:54) foi desativada
-Pagina (indice:77) foi ativada (16 paginas ativas)
-Pagina (indice:77) foi acessada
-Pagina (indice:77) foi desativada
-Pagina (indice:81) foi ativada (16 paginas ativas)
-Pagina (indice:81) foi acessada
-Pagina (indice:81) foi desativada
-Pagina (indice:104) foi ativada (16 paginas ativas)
-Pagina (indice:104) foi acessada
-Pagina (indice:93) foi desativada
-Pagina (indice:115) foi ativada (16 paginas ativas)
-Pagina (indice:115) foi acessada
-Tick - Paginas Ativadas:  73, 82, 85, 89, 91, 96, 100, 101, 102, 104, 105, 106, 115, 116,
-Thread (indice:15) criada
-Tick - Paginas Ativadas:  73, 82, 85, 89, 91, 96, 100, 101, 102, 104, 105, 106, 115, 116,
-Pagina (indice:73) foi desativada
-Pagina (indice:2) foi ativada (16 paginas ativas)
-Pagina (indice:2) foi acessada
-Pagina (indice:2) foi desativada
-Pagina (indice:30) foi ativada (16 paginas ativas)
-Pagina (indice:30) foi acessada
-Pagina (indice:30) foi desativada
-Pagina (indice:35) foi ativada (16 paginas ativas)
-Pagina (indice:35) foi acessada
-Pagina (indice:35) foi desativada
-Pagina (indice:59) foi ativada (16 paginas ativas)
-Pagina (indice:59) foi acessada
-Pagina (indice:59) foi desativada
-Pagina (indice:71) foi ativada (16 paginas ativas)
-Pagina (indice:71) foi acessada
-Pagina (indice:71) foi desativada
-Pagina (indice:92) foi ativada (16 paginas ativas)
-Pagina (indice:92) foi acessada
-Pagina (indice:102) foi acessada
-Pagina (indice:85) foi desativada
-Pagina (indice:127) foi ativada (16 paginas ativas)
-Pagina (indice:127) foi acessada
-Tick - Paginas Ativadas:  82, 89, 91, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 127,
-Tick - Paginas Ativadas:  82, 89, 91, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 127,
-Pagina (indice:91) foi desativada
-Pagina (indice:14) foi ativada (16 paginas ativas)
-Pagina (indice:14) foi acessada
-Pagina (indice:14) foi desativada
-Pagina (indice:17) foi ativada (16 paginas ativas)
-Pagina (indice:17) foi acessada
-Pagina (indice:17) foi desativada
-Pagina (indice:42) foi ativada (16 paginas ativas)
-Pagina (indice:42) foi acessada
-Pagina (indice:42) foi desativada
-Pagina (indice:55) foi ativada (16 paginas ativas)
-Pagina (indice:55) foi acessada
-Pagina (indice:55) foi desativada
-Pagina (indice:73) foi ativada (16 paginas ativas)
-Pagina (indice:73) foi acessada
-Pagina (indice:73) foi desativada
-Pagina (indice:84) foi ativada (16 paginas ativas)
-Pagina (indice:84) foi acessada
-Pagina (indice:106) foi acessada
-Pagina (indice:84) foi desativada
-Pagina (indice:118) foi ativada (16 paginas ativas)
-Pagina (indice:118) foi acessada
-Tick - Paginas Ativadas:  82, 89, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 118, 127,
-Tick - Paginas Ativadas:  82, 89, 92, 96, 100, 101, 102, 104, 105, 106, 115, 116, 118, 127,
+Tick 0 - Paginas ativas (total:0):
+Thread 0 criada
+Pagina 6 da thread 0 foi ativada
+Pagina 6 da thread 0 foi acessada
+Tick 1 - Paginas ativas (total:1): 6 
+Tick 2 - Paginas ativas (total:1): 6 
+Pagina 1 da thread 0 foi ativada
+Pagina 1 da thread 0 foi acessada
+Tick 3 - Paginas ativas (total:2): 1  6 
+Tick 4 - Paginas ativas (total:2): 1  6 
+Pagina 7 da thread 0 foi ativada
+Pagina 7 da thread 0 foi acessada
+Tick 5 - Paginas ativas (total:3): 1  6  7 
+Thread 1 criada
+Pagina 12 da thread 1 foi ativada
+Pagina 12 da thread 1 foi acessada
+Tick 6 - Paginas ativas (total:4): 1  6  7  12 
+Pagina 7 da thread 0 foi acessada
+Tick 7 - Paginas ativas (total:4): 1  6  7  12 
+Pagina 14 da thread 1 foi ativada
+Pagina 14 da thread 1 foi acessada
+Tick 8 - Paginas ativas (total:5): 1  6  7  12  14 
+Pagina 3 da thread 0 foi ativada
+Pagina 3 da thread 0 foi acessada
+Tick 9 - Paginas ativas (total:6): 1  3  6  7  12  14 
+Pagina 10 da thread 1 foi ativada
+Pagina 10 da thread 1 foi acessada
+Tick 10 - Paginas ativas (total:7): 1  3  6  7  10  12  14 
+Thread 2 criada
+Pagina 3 da thread 0 foi acessada
+Pagina 19 da thread 2 foi ativada
+Pagina 19 da thread 2 foi acessada
+Tick 11 - Paginas ativas (total:8): 1  3  6  7  10  12  14  19 
+Pagina 12 da thread 1 foi acessada
+Tick 12 - Paginas ativas (total:8): 1  3  6  7  10  12  14  19 
+Pagina 1 da thread 0 foi acessada
+Pagina 16 da thread 2 foi ativada
+Pagina 16 da thread 2 foi acessada
+Tick 13 - Paginas ativas (total:9): 1  3  6  7  10  12  14  16  19 
+Pagina 15 da thread 1 foi ativada
+Pagina 15 da thread 1 foi acessada
+Tick 14 - Paginas ativas (total:10): 1  3  6  7  10  12  14  15  16  19 
+Pagina 2 da thread 0 foi ativada
+Pagina 2 da thread 0 foi acessada
+Pagina 6 da thread 0 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 16 da thread 2 foi acessada
+Tick 15 - Paginas ativas (total:10): 1  2  3  7  10  12  14  15  16  19 
+Thread 3 criada
+Pagina 10 da thread 1 foi acessada
+Pagina 29 da thread 3 foi ativada
+Pagina 29 da thread 3 foi acessada
+Tick 16 - Paginas ativas (total:11): 1  2  3  7  10  12  14  15  16  19  29 
+Pagina 6 da thread 0 foi ativada
+Pagina 6 da thread 0 foi acessada
+Pagina 7 da thread 0 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 21 da thread 2 foi ativada
+Pagina 21 da thread 2 foi acessada
+Tick 17 - Paginas ativas (total:12): 1  2  3  6  10  12  14  15  16  19  21  29 
+Pagina 14 da thread 1 foi acessada
+Pagina 29 da thread 3 foi acessada
+Tick 18 - Paginas ativas (total:12): 1  2  3  6  10  12  14  15  16  19  21  29 
+Pagina 0 da thread 0 foi ativada
+Pagina 0 da thread 0 foi acessada
+Pagina 3 da thread 0 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 20 da thread 2 foi ativada
+Pagina 20 da thread 2 foi acessada
+Tick 19 - Paginas ativas (total:13): 0  1  2  6  10  12  14  15  16  19  20  21  29 
+Pagina 8 da thread 1 foi ativada
+Pagina 8 da thread 1 foi acessada
+Pagina 12 da thread 1 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 28 da thread 3 foi ativada
+Pagina 28 da thread 3 foi acessada
+Tick 20 - Paginas ativas (total:14): 0  1  2  6  8  10  14  15  16  19  20  21  28  29 
+Thread 4 criada
+Pagina 7 da thread 0 foi ativada
+Pagina 7 da thread 0 foi acessada
+Pagina 1 da thread 0 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 22 da thread 2 foi ativada
+Pagina 22 da thread 2 foi acessada
+Pagina 19 da thread 2 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 35 da thread 4 foi ativada
+Pagina 35 da thread 4 foi acessada
+Tick 21 - Paginas ativas (total:15): 0  2  6  7  8  10  14  15  16  20  21  22  28  29  35 
+Pagina 14 da thread 1 foi acessada
+Pagina 28 da thread 3 foi acessada
+Tick 22 - Paginas ativas (total:15): 0  2  6  7  8  10  14  15  16  20  21  22  28  29  35 
+Pagina 1 da thread 0 foi ativada
+Pagina 1 da thread 0 foi acessada
+Pagina 2 da thread 0 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 16 da thread 2 foi acessada
+Pagina 36 da thread 4 foi ativada
+Pagina 36 da thread 4 foi acessada
+Tick 23 - Paginas ativas (total:16): 0  1  6  7  8  10  14  15  16  20  21  22  28  29  35  36 
+Pagina 13 da thread 1 foi ativada
+Pagina 13 da thread 1 foi acessada
+Pagina 10 da thread 1 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 31 da thread 3 foi ativada
+Pagina 31 da thread 3 foi acessada
+Pagina 15 da thread 1 com idade 8 foi desativada por exceder o limite de paginas por usuario
+Tick 24 - Paginas ativas (total:16): 0  1  6  7  8  13  14  16  20  21  22  28  29  31  35  36 
+Pagina 2 da thread 0 foi ativada
+Pagina 2 da thread 0 foi acessada
+Pagina 6 da thread 0 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 16 da thread 2 foi acessada
+Pagina 34 da thread 4 foi ativada
+Pagina 34 da thread 4 foi acessada
+Pagina 21 da thread 2 com idade 8 foi desativada por exceder o limite de paginas por usuario
+Tick 25 - Paginas ativas (total:16): 0  1  2  7  8  13  14  16  20  22  28  29  31  34  35  36 
+Thread 5 criada
+Pagina 13 da thread 1 foi acessada
+Pagina 28 da thread 3 foi acessada
+Pagina 46 da thread 5 foi ativada
+Pagina 46 da thread 5 foi acessada
+Pagina 29 da thread 3 com idade 8 foi desativada por exceder o limite de paginas por usuario
+Tick 26 - Paginas ativas (total:16): 0  1  2  7  8  13  14  16  20  22  28  31  34  35  36  46 
+Pagina 6 da thread 0 foi ativada
+Pagina 6 da thread 0 foi acessada
+Pagina 0 da thread 0 com idade 8 foi desativada por exceder o limite de paginas por thread
+Pagina 20 da thread 2 foi acessada
+Pagina 38 da thread 4 foi ativada
+Pagina 38 da thread 4 foi acessada
+Pagina 8 da thread 1 com idade 7 foi desativada por exceder o limite de paginas por usuario
+Tick 27 - Paginas ativas (total:16): 1  2  6  7  13  14  16  20  22  28  31  34  35  36  38  46 
+Pagina 8 da thread 1 foi ativada
+Pagina 8 da thread 1 foi acessada
+Pagina 7 da thread 0 com idade 7 foi desativada por exceder o limite de paginas por usuario
+Pagina 28 da thread 3 foi acessada
+Pagina 40 da thread 5 foi ativada
+Pagina 40 da thread 5 foi acessada
+Pagina 22 da thread 2 com idade 7 foi desativada por exceder o limite de paginas por usuario
+Tick 28 - Paginas ativas (total:16): 1  2  6  8  13  14  16  20  28  31  34  35  36  38  40  46 
+Pagina 6 da thread 0 foi acessada
+Pagina 18 da thread 2 foi ativada
+Pagina 18 da thread 2 foi acessada
+Pagina 35 da thread 4 com idade 8 foi desativada por exceder o limite de paginas por usuario
+Pagina 37 da thread 4 foi ativada
+Pagina 37 da thread 4 foi acessada
+Pagina 14 da thread 1 com idade 7 foi desativada por exceder o limite de paginas por usuario
+Tick 29 - Paginas ativas (total:16): 1  2  6  8  13  16  18  20  28  31  34  36  37  38  40  46 
+Pagina 12 da thread 1 foi ativada
+Pagina 12 da thread 1 foi acessada
+Pagina 1 da thread 0 com idade 7 foi desativada por exceder o limite de paginas por usuario
+Pagina 24 da thread 3 foi ativada
+Pagina 24 da thread 3 foi acessada
+Pagina 36 da thread 4 com idade 7 foi desativada por exceder o limite de paginas por usuario
+Pagina 46 da thread 5 foi acessada
+Tick 30 - Paginas ativas (total:16): 2  6  8  12  13  16  18  20  24  28  31  34  37  38  40  46 
+Thread 6 criada
+Pagina 0 da thread 0 foi ativada
+Pagina 0 da thread 0 foi acessada
+Pagina 31 da thread 3 com idade 7 foi desativada por exceder o limite de paginas por usuario
+Pagina 16 da thread 2 foi acessada
+Pagina 34 da thread 4 foi acessada
+Pagina 55 da thread 6 foi ativada
+Pagina 55 da thread 6 foi acessada
+Pagina 2 da thread 0 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Tick 31 - Paginas ativas (total:16): 0  6  8  12  13  16  18  20  24  28  34  37  38  40  46  55 
+Pagina 15 da thread 1 foi ativada
+Pagina 15 da thread 1 foi acessada
+Pagina 13 da thread 1 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Pagina 30 da thread 3 foi ativada
+Pagina 30 da thread 3 foi acessada
+Pagina 20 da thread 2 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 46 da thread 5 foi acessada
+Tick 32 - Paginas ativas (total:16): 0  6  8  12  15  16  18  24  28  30  34  37  38  40  46  55 
+Pagina 3 da thread 0 foi ativada
+Pagina 3 da thread 0 foi acessada
+Pagina 38 da thread 4 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Pagina 23 da thread 2 foi ativada
+Pagina 23 da thread 2 foi acessada
+Pagina 8 da thread 1 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 38 da thread 4 foi ativada
+Pagina 38 da thread 4 foi acessada
+Pagina 28 da thread 3 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 55 da thread 6 foi acessada
+Tick 33 - Paginas ativas (total:16): 0  3  6  12  15  16  18  23  24  30  34  37  38  40  46  55 
+Pagina 13 da thread 1 foi ativada
+Pagina 13 da thread 1 foi acessada
+Pagina 40 da thread 5 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Pagina 29 da thread 3 foi ativada
+Pagina 29 da thread 3 foi acessada
+Pagina 6 da thread 0 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 41 da thread 5 foi ativada
+Pagina 41 da thread 5 foi acessada
+Pagina 18 da thread 2 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Tick 34 - Paginas ativas (total:16): 0  3  12  13  15  16  23  24  29  30  34  37  38  41  46  55 
+Pagina 5 da thread 0 foi ativada
+Pagina 5 da thread 0 foi acessada
+Pagina 37 da thread 4 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Pagina 23 da thread 2 foi acessada
+Pagina 38 da thread 4 foi acessada
+Pagina 49 da thread 6 foi ativada
+Pagina 49 da thread 6 foi acessada
+Pagina 12 da thread 1 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Tick 35 - Paginas ativas (total:16): 0  3  5  13  15  16  23  24  29  30  34  38  41  46  49  55 
+Thread 7 criada
+Pagina 14 da thread 1 foi ativada
+Pagina 14 da thread 1 foi acessada
+Pagina 24 da thread 3 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Pagina 29 da thread 3 foi acessada
+Pagina 45 da thread 5 foi ativada
+Pagina 45 da thread 5 foi acessada
+Pagina 0 da thread 0 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 60 da thread 7 foi ativada
+Pagina 60 da thread 7 foi acessada
+Pagina 16 da thread 2 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Tick 36 - Paginas ativas (total:16): 3  5  13  14  15  23  29  30  34  38  41  45  46  49  55  60 
+Pagina 5 da thread 0 foi acessada
+Pagina 17 da thread 2 foi ativada
+Pagina 17 da thread 2 foi acessada
+Pagina 34 da thread 4 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Pagina 36 da thread 4 foi ativada
+Pagina 36 da thread 4 foi acessada
+Pagina 15 da thread 1 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 51 da thread 6 foi ativada
+Pagina 51 da thread 6 foi acessada
+Pagina 30 da thread 3 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Tick 37 - Paginas ativas (total:16): 3  5  13  14  17  23  29  36  38  41  45  46  49  51  55  60 
+Pagina 12 da thread 1 foi ativada
+Pagina 12 da thread 1 foi acessada
+Pagina 46 da thread 5 com idade 6 foi desativada por exceder o limite de paginas por usuario
+Pagina 26 da thread 3 foi ativada
+Pagina 26 da thread 3 foi acessada
+Pagina 3 da thread 0 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 40 da thread 5 foi ativada
+Pagina 40 da thread 5 foi acessada
+Pagina 55 da thread 6 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 60 da thread 7 foi acessada
+Tick 38 - Paginas ativas (total:16): 5  12  13  14  17  23  26  29  36  38  40  41  45  49  51  60 
+Pagina 0 da thread 0 foi ativada
+Pagina 0 da thread 0 foi acessada
+Pagina 13 da thread 1 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 16 da thread 2 foi ativada
+Pagina 16 da thread 2 foi acessada
+Pagina 41 da thread 5 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 36 da thread 4 foi acessada
+Pagina 50 da thread 6 foi ativada
+Pagina 50 da thread 6 foi acessada
+Pagina 23 da thread 2 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Tick 39 - Paginas ativas (total:16): 0  5  12  14  16  17  26  29  36  38  40  45  49  50  51  60 
+Pagina 8 da thread 1 foi ativada
+Pagina 8 da thread 1 foi acessada
+Pagina 38 da thread 4 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 27 da thread 3 foi ativada
+Pagina 27 da thread 3 foi acessada
+Pagina 49 da thread 6 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 40 da thread 5 foi acessada
+Pagina 62 da thread 7 foi ativada
+Pagina 62 da thread 7 foi acessada
+Pagina 14 da thread 1 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Tick 40 - Paginas ativas (total:16): 0  5  8  12  16  17  26  27  29  36  40  45  50  51  60  62 
+Thread 8 criada
+Pagina 7 da thread 0 foi ativada
+Pagina 7 da thread 0 foi acessada
+Pagina 29 da thread 3 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 16 da thread 2 foi acessada
+Pagina 36 da thread 4 foi acessada
+Pagina 54 da thread 6 foi ativada
+Pagina 54 da thread 6 foi acessada
+Pagina 45 da thread 5 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 69 da thread 8 foi ativada
+Pagina 69 da thread 8 foi acessada
+Pagina 5 da thread 0 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Tick 41 - Paginas ativas (total:16): 0  7  8  12  16  17  26  27  36  40  50  51  54  60  62  69 
+Pagina 9 da thread 1 foi ativada
+Pagina 9 da thread 1 foi acessada
+Pagina 17 da thread 2 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 24 da thread 3 foi ativada
+Pagina 24 da thread 3 foi acessada
+Pagina 51 da thread 6 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 42 da thread 5 foi ativada
+Pagina 42 da thread 5 foi acessada
+Pagina 12 da thread 1 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 57 da thread 7 foi ativada
+Pagina 57 da thread 7 foi acessada
+Pagina 26 da thread 3 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Tick 42 - Paginas ativas (total:16): 0  7  8  9  16  24  27  36  40  42  50  54  57  60  62  69 
+Pagina 6 da thread 0 foi ativada
+Pagina 6 da thread 0 foi acessada
+Pagina 60 da thread 7 com idade 5 foi desativada por exceder o limite de paginas por usuario
+Pagina 20 da thread 2 foi ativada
+Pagina 20 da thread 2 foi acessada
+Pagina 0 da thread 0 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 39 da thread 4 foi ativada
+Pagina 39 da thread 4 foi acessada
+Pagina 50 da thread 6 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 51 da thread 6 foi ativada
+Pagina 51 da thread 6 foi acessada
+Pagina 8 da thread 1 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 65 da thread 8 foi ativada
+Pagina 65 da thread 8 foi acessada
+Pagina 27 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 43 - Paginas ativas (total:16): 6  7  9  16  20  24  36  39  40  42  51  54  57  62  65  69 
+Pagina 11 da thread 1 foi ativada
+Pagina 11 da thread 1 foi acessada
+Pagina 40 da thread 5 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 25 da thread 3 foi ativada
+Pagina 25 da thread 3 foi acessada
+Pagina 62 da thread 7 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 43 da thread 5 foi ativada
+Pagina 43 da thread 5 foi acessada
+Pagina 7 da thread 0 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 63 da thread 7 foi ativada
+Pagina 63 da thread 7 foi acessada
+Pagina 16 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 44 - Paginas ativas (total:16): 6  9  11  20  24  25  36  39  42  43  51  54  57  63  65  69 
+Pagina 4 da thread 0 foi ativada
+Pagina 4 da thread 0 foi acessada
+Pagina 36 da thread 4 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 23 da thread 2 foi ativada
+Pagina 23 da thread 2 foi acessada
+Pagina 54 da thread 6 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 33 da thread 4 foi ativada
+Pagina 33 da thread 4 foi acessada
+Pagina 69 da thread 8 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 52 da thread 6 foi ativada
+Pagina 52 da thread 6 foi acessada
+Pagina 9 da thread 1 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 67 da thread 8 foi ativada
+Pagina 67 da thread 8 foi acessada
+Pagina 24 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 45 - Paginas ativas (total:16): 4  6  11  20  23  25  33  39  42  43  51  52  57  63  65  67 
+Thread 9 criada
+Pagina 9 da thread 1 foi ativada
+Pagina 9 da thread 1 foi acessada
+Pagina 42 da thread 5 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 29 da thread 3 foi ativada
+Pagina 29 da thread 3 foi acessada
+Pagina 57 da thread 7 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 47 da thread 5 foi ativada
+Pagina 47 da thread 5 foi acessada
+Pagina 6 da thread 0 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 60 da thread 7 foi ativada
+Pagina 60 da thread 7 foi acessada
+Pagina 20 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 77 da thread 9 foi ativada
+Pagina 77 da thread 9 foi acessada
+Pagina 39 da thread 4 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 46 - Paginas ativas (total:16): 4  9  11  23  25  29  33  43  47  51  52  60  63  65  67  77 
+Pagina 3 da thread 0 foi ativada
+Pagina 3 da thread 0 foi acessada
+Pagina 51 da thread 6 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 20 da thread 2 foi ativada
+Pagina 20 da thread 2 foi acessada
+Pagina 65 da thread 8 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 35 da thread 4 foi ativada
+Pagina 35 da thread 4 foi acessada
+Pagina 11 da thread 1 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 50 da thread 6 foi ativada
+Pagina 50 da thread 6 foi acessada
+Pagina 25 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 68 da thread 8 foi ativada
+Pagina 68 da thread 8 foi acessada
+Pagina 43 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 47 - Paginas ativas (total:16): 3  4  9  20  23  29  33  35  47  50  52  60  63  67  68  77 
+Pagina 15 da thread 1 foi ativada
+Pagina 15 da thread 1 foi acessada
+Pagina 63 da thread 7 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 24 da thread 3 foi ativada
+Pagina 24 da thread 3 foi acessada
+Pagina 4 da thread 0 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 41 da thread 5 foi ativada
+Pagina 41 da thread 5 foi acessada
+Pagina 23 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 56 da thread 7 foi ativada
+Pagina 56 da thread 7 foi acessada
+Pagina 33 da thread 4 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 72 da thread 9 foi ativada
+Pagina 72 da thread 9 foi acessada
+Pagina 52 da thread 6 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 48 - Paginas ativas (total:16): 3  9  15  20  24  29  35  41  47  50  56  60  67  68  72  77 
+Pagina 4 da thread 0 foi ativada
+Pagina 4 da thread 0 foi acessada
+Pagina 67 da thread 8 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 17 da thread 2 foi ativada
+Pagina 17 da thread 2 foi acessada
+Pagina 9 da thread 1 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 39 da thread 4 foi ativada
+Pagina 39 da thread 4 foi acessada
+Pagina 29 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 48 da thread 6 foi ativada
+Pagina 48 da thread 6 foi acessada
+Pagina 47 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 64 da thread 8 foi ativada
+Pagina 64 da thread 8 foi acessada
+Pagina 60 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 49 - Paginas ativas (total:16): 3  4  15  17  20  24  35  39  41  48  50  56  64  68  72  77 
+Pagina 10 da thread 1 foi ativada
+Pagina 10 da thread 1 foi acessada
+Pagina 77 da thread 9 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 25 da thread 3 foi ativada
+Pagina 25 da thread 3 foi acessada
+Pagina 3 da thread 0 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 43 da thread 5 foi ativada
+Pagina 43 da thread 5 foi acessada
+Pagina 20 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 59 da thread 7 foi ativada
+Pagina 59 da thread 7 foi acessada
+Pagina 35 da thread 4 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 76 da thread 9 foi ativada
+Pagina 76 da thread 9 foi acessada
+Pagina 50 da thread 6 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 50 - Paginas ativas (total:16): 4  10  15  17  24  25  39  41  43  48  56  59  64  68  72  76 
+Thread 10 criada
+Pagina 3 da thread 0 foi ativada
+Pagina 3 da thread 0 foi acessada
+Pagina 68 da thread 8 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 16 da thread 2 foi ativada
+Pagina 16 da thread 2 foi acessada
+Pagina 15 da thread 1 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 35 da thread 4 foi ativada
+Pagina 35 da thread 4 foi acessada
+Pagina 24 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 52 da thread 6 foi ativada
+Pagina 52 da thread 6 foi acessada
+Pagina 41 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 68 da thread 8 foi ativada
+Pagina 68 da thread 8 foi acessada
+Pagina 56 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 86 da thread 10 foi ativada
+Pagina 86 da thread 10 foi acessada
+Pagina 72 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 51 - Paginas ativas (total:16): 3  4  10  16  17  25  35  39  43  48  52  59  64  68  76  86 
+Pagina 14 da thread 1 foi ativada
+Pagina 14 da thread 1 foi acessada
+Pagina 4 da thread 0 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 25 da thread 3 foi acessada
+Pagina 46 da thread 5 foi ativada
+Pagina 46 da thread 5 foi acessada
+Pagina 17 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 58 da thread 7 foi ativada
+Pagina 58 da thread 7 foi acessada
+Pagina 39 da thread 4 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 78 da thread 9 foi ativada
+Pagina 78 da thread 9 foi acessada
+Pagina 48 da thread 6 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 52 - Paginas ativas (total:16): 3  10  14  16  25  35  43  46  52  58  59  64  68  76  78  86 
+Pagina 1 da thread 0 foi ativada
+Pagina 1 da thread 0 foi acessada
+Pagina 64 da thread 8 com idade 4 foi desativada por exceder o limite de paginas por usuario
+Pagina 22 da thread 2 foi ativada
+Pagina 22 da thread 2 foi acessada
+Pagina 10 da thread 1 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 33 da thread 4 foi ativada
+Pagina 33 da thread 4 foi acessada
+Pagina 43 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 51 da thread 6 foi ativada
+Pagina 51 da thread 6 foi acessada
+Pagina 59 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 67 da thread 8 foi ativada
+Pagina 67 da thread 8 foi acessada
+Pagina 76 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 80 da thread 10 foi ativada
+Pagina 80 da thread 10 foi acessada
+Pagina 3 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 53 - Paginas ativas (total:16): 1  14  16  22  25  33  35  46  51  52  58  67  68  78  80  86 
+Pagina 11 da thread 1 foi ativada
+Pagina 11 da thread 1 foi acessada
+Pagina 16 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 28 da thread 3 foi ativada
+Pagina 28 da thread 3 foi acessada
+Pagina 35 da thread 4 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 41 da thread 5 foi ativada
+Pagina 41 da thread 5 foi acessada
+Pagina 52 da thread 6 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 60 da thread 7 foi ativada
+Pagina 60 da thread 7 foi acessada
+Pagina 68 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 72 da thread 9 foi ativada
+Pagina 72 da thread 9 foi acessada
+Pagina 86 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 54 - Paginas ativas (total:16): 1  11  14  22  25  28  33  41  46  51  58  60  67  72  78  80 
+Pagina 2 da thread 0 foi ativada
+Pagina 2 da thread 0 foi acessada
+Pagina 14 da thread 1 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 19 da thread 2 foi ativada
+Pagina 19 da thread 2 foi acessada
+Pagina 25 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 32 da thread 4 foi ativada
+Pagina 32 da thread 4 foi acessada
+Pagina 46 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 51 da thread 6 foi acessada
+Pagina 69 da thread 8 foi ativada
+Pagina 69 da thread 8 foi acessada
+Pagina 58 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 82 da thread 10 foi ativada
+Pagina 82 da thread 10 foi acessada
+Pagina 78 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Tick 55 - Paginas ativas (total:16): 1  2  11  19  22  28  32  33  41  51  60  67  69  72  80  82 
+Thread 11 criada
+Pagina 14 da thread 1 foi ativada
+Pagina 14 da thread 1 foi acessada
+Pagina 1 da thread 0 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 25 da thread 3 foi ativada
+Pagina 25 da thread 3 foi acessada
+Pagina 22 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 46 da thread 5 foi ativada
+Pagina 46 da thread 5 foi acessada
+Pagina 33 da thread 4 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 57 da thread 7 foi ativada
+Pagina 57 da thread 7 foi acessada
+Pagina 67 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 73 da thread 9 foi ativada
+Pagina 73 da thread 9 foi acessada
+Pagina 80 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 90 da thread 11 foi ativada
+Pagina 90 da thread 11 foi acessada
+Pagina 11 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 56 - Paginas ativas (total:16): 2  14  19  25  28  32  41  46  51  57  60  69  72  73  82  90 
+Pagina 6 da thread 0 foi ativada
+Pagina 6 da thread 0 foi acessada
+Pagina 28 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 21 da thread 2 foi ativada
+Pagina 21 da thread 2 foi acessada
+Pagina 41 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 32 da thread 4 foi acessada
+Pagina 52 da thread 6 foi ativada
+Pagina 52 da thread 6 foi acessada
+Pagina 60 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 71 da thread 8 foi ativada
+Pagina 71 da thread 8 foi acessada
+Pagina 72 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 86 da thread 10 foi ativada
+Pagina 86 da thread 10 foi acessada
+Pagina 2 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 57 - Paginas ativas (total:16): 6  14  19  21  25  32  46  51  52  57  69  71  73  82  86  90 
+Pagina 14 da thread 1 foi acessada
+Pagina 29 da thread 3 foi ativada
+Pagina 29 da thread 3 foi acessada
+Pagina 19 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 47 da thread 5 foi ativada
+Pagina 47 da thread 5 foi acessada
+Pagina 51 da thread 6 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 60 da thread 7 foi ativada
+Pagina 60 da thread 7 foi acessada
+Pagina 69 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 79 da thread 9 foi ativada
+Pagina 79 da thread 9 foi acessada
+Pagina 82 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 90 da thread 11 foi acessada
+Tick 58 - Paginas ativas (total:16): 6  14  21  25  29  32  46  47  52  57  60  71  73  79  86  90 
+Pagina 7 da thread 0 foi ativada
+Pagina 7 da thread 0 foi acessada
+Pagina 25 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 23 da thread 2 foi ativada
+Pagina 23 da thread 2 foi acessada
+Pagina 46 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 38 da thread 4 foi ativada
+Pagina 38 da thread 4 foi acessada
+Pagina 57 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 52 da thread 6 foi acessada
+Pagina 64 da thread 8 foi ativada
+Pagina 64 da thread 8 foi acessada
+Pagina 73 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 82 da thread 10 foi ativada
+Pagina 82 da thread 10 foi acessada
+Pagina 6 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 59 - Paginas ativas (total:16): 7  14  21  23  29  32  38  47  52  60  64  71  79  82  86  90 
+Pagina 12 da thread 1 foi ativada
+Pagina 12 da thread 1 foi acessada
+Pagina 21 da thread 2 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 27 da thread 3 foi ativada
+Pagina 27 da thread 3 foi acessada
+Pagina 32 da thread 4 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 45 da thread 5 foi ativada
+Pagina 45 da thread 5 foi acessada
+Pagina 71 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 61 da thread 7 foi ativada
+Pagina 61 da thread 7 foi acessada
+Pagina 86 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 78 da thread 9 foi ativada
+Pagina 78 da thread 9 foi acessada
+Pagina 14 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 90 da thread 11 foi acessada
+Tick 60 - Paginas ativas (total:16): 7  12  23  27  29  38  45  47  52  60  61  64  78  79  82  90 
+Thread 12 criada
+Pagina 7 da thread 0 foi acessada
+Pagina 20 da thread 2 foi ativada
+Pagina 20 da thread 2 foi acessada
+Pagina 29 da thread 3 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 35 da thread 4 foi ativada
+Pagina 35 da thread 4 foi acessada
+Pagina 47 da thread 5 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 53 da thread 6 foi ativada
+Pagina 53 da thread 6 foi acessada
+Pagina 60 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 70 da thread 8 foi ativada
+Pagina 70 da thread 8 foi acessada
+Pagina 79 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 84 da thread 10 foi ativada
+Pagina 84 da thread 10 foi acessada
+Pagina 23 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 103 da thread 12 foi ativada
+Pagina 103 da thread 12 foi acessada
+Pagina 38 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 61 - Paginas ativas (total:16): 7  12  20  27  35  45  52  53  61  64  70  78  82  84  90  103 
+Pagina 12 da thread 1 foi acessada
+Pagina 26 da thread 3 foi ativada
+Pagina 26 da thread 3 foi acessada
+Pagina 52 da thread 6 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 40 da thread 5 foi ativada
+Pagina 40 da thread 5 foi acessada
+Pagina 64 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 56 da thread 7 foi ativada
+Pagina 56 da thread 7 foi acessada
+Pagina 82 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 73 da thread 9 foi ativada
+Pagina 73 da thread 9 foi acessada
+Pagina 27 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 94 da thread 11 foi ativada
+Pagina 94 da thread 11 foi acessada
+Pagina 45 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 62 - Paginas ativas (total:16): 7  12  20  26  35  40  53  56  61  70  73  78  84  90  94  103 
+Pagina 6 da thread 0 foi ativada
+Pagina 6 da thread 0 foi acessada
+Pagina 61 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 22 da thread 2 foi ativada
+Pagina 22 da thread 2 foi acessada
+Pagina 78 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 38 da thread 4 foi ativada
+Pagina 38 da thread 4 foi acessada
+Pagina 90 da thread 11 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 50 da thread 6 foi ativada
+Pagina 50 da thread 6 foi acessada
+Pagina 7 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 69 da thread 8 foi ativada
+Pagina 69 da thread 8 foi acessada
+Pagina 20 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 80 da thread 10 foi ativada
+Pagina 80 da thread 10 foi acessada
+Pagina 35 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 98 da thread 12 foi ativada
+Pagina 98 da thread 12 foi acessada
+Pagina 53 da thread 6 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 63 - Paginas ativas (total:16): 6  12  22  26  38  40  50  56  69  70  73  80  84  94  98  103 
+Pagina 13 da thread 1 foi ativada
+Pagina 13 da thread 1 foi acessada
+Pagina 70 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 30 da thread 3 foi ativada
+Pagina 30 da thread 3 foi acessada
+Pagina 84 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 46 da thread 5 foi ativada
+Pagina 46 da thread 5 foi acessada
+Pagina 103 da thread 12 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 61 da thread 7 foi ativada
+Pagina 61 da thread 7 foi acessada
+Pagina 12 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 72 da thread 9 foi ativada
+Pagina 72 da thread 9 foi acessada
+Pagina 26 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 90 da thread 11 foi ativada
+Pagina 90 da thread 11 foi acessada
+Pagina 40 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 64 - Paginas ativas (total:16): 6  13  22  30  38  46  50  56  61  69  72  73  80  90  94  98 
+Pagina 0 da thread 0 foi ativada
+Pagina 0 da thread 0 foi acessada
+Pagina 56 da thread 7 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 21 da thread 2 foi ativada
+Pagina 21 da thread 2 foi acessada
+Pagina 73 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 39 da thread 4 foi ativada
+Pagina 39 da thread 4 foi acessada
+Pagina 94 da thread 11 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 54 da thread 6 foi ativada
+Pagina 54 da thread 6 foi acessada
+Pagina 6 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 64 da thread 8 foi ativada
+Pagina 64 da thread 8 foi acessada
+Pagina 22 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 86 da thread 10 foi ativada
+Pagina 86 da thread 10 foi acessada
+Pagina 38 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 99 da thread 12 foi ativada
+Pagina 99 da thread 12 foi acessada
+Pagina 50 da thread 6 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 65 - Paginas ativas (total:16): 0  13  21  30  39  46  54  61  64  69  72  80  86  90  98  99 
+Thread 13 criada
+Pagina 11 da thread 1 foi ativada
+Pagina 11 da thread 1 foi acessada
+Pagina 69 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 28 da thread 3 foi ativada
+Pagina 28 da thread 3 foi acessada
+Pagina 80 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 41 da thread 5 foi ativada
+Pagina 41 da thread 5 foi acessada
+Pagina 98 da thread 12 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 56 da thread 7 foi ativada
+Pagina 56 da thread 7 foi acessada
+Pagina 13 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 75 da thread 9 foi ativada
+Pagina 75 da thread 9 foi acessada
+Pagina 30 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 93 da thread 11 foi ativada
+Pagina 93 da thread 11 foi acessada
+Pagina 46 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 106 da thread 13 foi ativada
+Pagina 106 da thread 13 foi acessada
+Pagina 61 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 66 - Paginas ativas (total:16): 0  11  21  28  39  41  54  56  64  72  75  86  90  93  99  106 
+Pagina 3 da thread 0 foi ativada
+Pagina 3 da thread 0 foi acessada
+Pagina 72 da thread 9 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 21 da thread 2 foi acessada
+Pagina 35 da thread 4 foi ativada
+Pagina 35 da thread 4 foi acessada
+Pagina 90 da thread 11 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 50 da thread 6 foi ativada
+Pagina 50 da thread 6 foi acessada
+Pagina 0 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 67 da thread 8 foi ativada
+Pagina 67 da thread 8 foi acessada
+Pagina 39 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 81 da thread 10 foi ativada
+Pagina 81 da thread 10 foi acessada
+Pagina 54 da thread 6 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 96 da thread 12 foi ativada
+Pagina 96 da thread 12 foi acessada
+Pagina 64 da thread 8 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 67 - Paginas ativas (total:16): 3  11  21  28  35  41  50  56  67  75  81  86  93  96  99  106 
+Pagina 13 da thread 1 foi ativada
+Pagina 13 da thread 1 foi acessada
+Pagina 86 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 31 da thread 3 foi ativada
+Pagina 31 da thread 3 foi acessada
+Pagina 99 da thread 12 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 40 da thread 5 foi ativada
+Pagina 40 da thread 5 foi acessada
+Pagina 11 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 63 da thread 7 foi ativada
+Pagina 63 da thread 7 foi acessada
+Pagina 28 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 76 da thread 9 foi ativada
+Pagina 76 da thread 9 foi acessada
+Pagina 41 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 95 da thread 11 foi ativada
+Pagina 95 da thread 11 foi acessada
+Pagina 56 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 109 da thread 13 foi ativada
+Pagina 109 da thread 13 foi acessada
+Pagina 75 da thread 9 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 68 - Paginas ativas (total:16): 3  13  21  31  35  40  50  63  67  76  81  93  95  96  106  109 
+Pagina 1 da thread 0 foi ativada
+Pagina 1 da thread 0 foi acessada
+Pagina 93 da thread 11 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 23 da thread 2 foi ativada
+Pagina 23 da thread 2 foi acessada
+Pagina 106 da thread 13 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 32 da thread 4 foi ativada
+Pagina 32 da thread 4 foi acessada
+Pagina 3 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 50 da thread 6 foi acessada
+Pagina 69 da thread 8 foi ativada
+Pagina 69 da thread 8 foi acessada
+Pagina 21 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 87 da thread 10 foi ativada
+Pagina 87 da thread 10 foi acessada
+Pagina 35 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 96 da thread 12 foi acessada
+Tick 69 - Paginas ativas (total:16): 1  13  23  31  32  40  50  63  67  69  76  81  87  95  96  109 
+Pagina 13 da thread 1 foi acessada
+Pagina 30 da thread 3 foi ativada
+Pagina 30 da thread 3 foi acessada
+Pagina 67 da thread 8 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 43 da thread 5 foi ativada
+Pagina 43 da thread 5 foi acessada
+Pagina 81 da thread 10 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 56 da thread 7 foi ativada
+Pagina 56 da thread 7 foi acessada
+Pagina 31 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 74 da thread 9 foi ativada
+Pagina 74 da thread 9 foi acessada
+Pagina 40 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 92 da thread 11 foi ativada
+Pagina 92 da thread 11 foi acessada
+Pagina 63 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 104 da thread 13 foi ativada
+Pagina 104 da thread 13 foi acessada
+Pagina 76 da thread 9 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 70 - Paginas ativas (total:16): 1  13  23  30  32  43  50  56  69  74  87  92  95  96  104  109 
+Thread 14 criada
+Pagina 5 da thread 0 foi ativada
+Pagina 5 da thread 0 foi acessada
+Pagina 95 da thread 11 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 17 da thread 2 foi ativada
+Pagina 17 da thread 2 foi acessada
+Pagina 109 da thread 13 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 34 da thread 4 foi ativada
+Pagina 34 da thread 4 foi acessada
+Pagina 1 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 49 da thread 6 foi ativada
+Pagina 49 da thread 6 foi acessada
+Pagina 23 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 70 da thread 8 foi ativada
+Pagina 70 da thread 8 foi acessada
+Pagina 32 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 85 da thread 10 foi ativada
+Pagina 85 da thread 10 foi acessada
+Pagina 50 da thread 6 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 99 da thread 12 foi ativada
+Pagina 99 da thread 12 foi acessada
+Pagina 69 da thread 8 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 113 da thread 14 foi ativada
+Pagina 113 da thread 14 foi acessada
+Pagina 87 da thread 10 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 71 - Paginas ativas (total:16): 5  13  17  30  34  43  49  56  70  74  85  92  96  99  104  113 
+Pagina 15 da thread 1 foi ativada
+Pagina 15 da thread 1 foi acessada
+Pagina 96 da thread 12 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 27 da thread 3 foi ativada
+Pagina 27 da thread 3 foi acessada
+Pagina 13 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 47 da thread 5 foi ativada
+Pagina 47 da thread 5 foi acessada
+Pagina 30 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 62 da thread 7 foi ativada
+Pagina 62 da thread 7 foi acessada
+Pagina 43 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 75 da thread 9 foi ativada
+Pagina 75 da thread 9 foi acessada
+Pagina 56 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 94 da thread 11 foi ativada
+Pagina 94 da thread 11 foi acessada
+Pagina 74 da thread 9 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 106 da thread 13 foi ativada
+Pagina 106 da thread 13 foi acessada
+Pagina 92 da thread 11 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 72 - Paginas ativas (total:16): 5  15  17  27  34  47  49  62  70  75  85  94  99  104  106  113 
+Pagina 2 da thread 0 foi ativada
+Pagina 2 da thread 0 foi acessada
+Pagina 104 da thread 13 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 20 da thread 2 foi ativada
+Pagina 20 da thread 2 foi acessada
+Pagina 5 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 35 da thread 4 foi ativada
+Pagina 35 da thread 4 foi acessada
+Pagina 17 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 50 da thread 6 foi ativada
+Pagina 50 da thread 6 foi acessada
+Pagina 34 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 68 da thread 8 foi ativada
+Pagina 68 da thread 8 foi acessada
+Pagina 49 da thread 6 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 85 da thread 10 foi acessada
+Pagina 103 da thread 12 foi ativada
+Pagina 103 da thread 12 foi acessada
+Pagina 70 da thread 8 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 115 da thread 14 foi ativada
+Pagina 115 da thread 14 foi acessada
+Pagina 99 da thread 12 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 73 - Paginas ativas (total:16): 2  15  20  27  35  47  50  62  68  75  85  94  103  106  113  115 
+Pagina 14 da thread 1 foi ativada
+Pagina 14 da thread 1 foi acessada
+Pagina 113 da thread 14 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 28 da thread 3 foi ativada
+Pagina 28 da thread 3 foi acessada
+Pagina 15 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 41 da thread 5 foi ativada
+Pagina 41 da thread 5 foi acessada
+Pagina 27 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 57 da thread 7 foi ativada
+Pagina 57 da thread 7 foi acessada
+Pagina 47 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 76 da thread 9 foi ativada
+Pagina 76 da thread 9 foi acessada
+Pagina 62 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 91 da thread 11 foi ativada
+Pagina 91 da thread 11 foi acessada
+Pagina 75 da thread 9 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 110 da thread 13 foi ativada
+Pagina 110 da thread 13 foi acessada
+Pagina 94 da thread 11 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 74 - Paginas ativas (total:16): 2  14  20  28  35  41  50  57  68  76  85  91  103  106  110  115 
+Pagina 5 da thread 0 foi ativada
+Pagina 5 da thread 0 foi acessada
+Pagina 106 da thread 13 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 17 da thread 2 foi ativada
+Pagina 17 da thread 2 foi acessada
+Pagina 2 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 39 da thread 4 foi ativada
+Pagina 39 da thread 4 foi acessada
+Pagina 20 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 55 da thread 6 foi ativada
+Pagina 55 da thread 6 foi acessada
+Pagina 35 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 66 da thread 8 foi ativada
+Pagina 66 da thread 8 foi acessada
+Pagina 50 da thread 6 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 86 da thread 10 foi ativada
+Pagina 86 da thread 10 foi acessada
+Pagina 68 da thread 8 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 101 da thread 12 foi ativada
+Pagina 101 da thread 12 foi acessada
+Pagina 85 da thread 10 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 117 da thread 14 foi ativada
+Pagina 117 da thread 14 foi acessada
+Pagina 103 da thread 12 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 75 - Paginas ativas (total:16): 5  14  17  28  39  41  55  57  66  76  86  91  101  110  115  117 
+Thread 15 criada
+Pagina 15 da thread 1 foi ativada
+Pagina 15 da thread 1 foi acessada
+Pagina 115 da thread 14 com idade 3 foi desativada por exceder o limite de paginas por usuario
+Pagina 28 da thread 3 foi acessada
+Pagina 40 da thread 5 foi ativada
+Pagina 40 da thread 5 foi acessada
+Pagina 14 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 62 da thread 7 foi ativada
+Pagina 62 da thread 7 foi acessada
+Pagina 41 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 74 da thread 9 foi ativada
+Pagina 74 da thread 9 foi acessada
+Pagina 57 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 91 da thread 11 foi acessada
+Pagina 109 da thread 13 foi ativada
+Pagina 109 da thread 13 foi acessada
+Pagina 76 da thread 9 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 124 da thread 15 foi ativada
+Pagina 124 da thread 15 foi acessada
+Pagina 110 da thread 13 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 76 - Paginas ativas (total:16): 5  15  17  28  39  40  55  62  66  74  86  91  101  109  117  124 
+Pagina 6 da thread 0 foi ativada
+Pagina 6 da thread 0 foi acessada
+Pagina 5 da thread 0 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 17 da thread 2 foi acessada
+Pagina 39 da thread 4 foi acessada
+Pagina 48 da thread 6 foi ativada
+Pagina 48 da thread 6 foi acessada
+Pagina 55 da thread 6 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 69 da thread 8 foi ativada
+Pagina 69 da thread 8 foi acessada
+Pagina 66 da thread 8 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 85 da thread 10 foi ativada
+Pagina 85 da thread 10 foi acessada
+Pagina 86 da thread 10 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 103 da thread 12 foi ativada
+Pagina 103 da thread 12 foi acessada
+Pagina 101 da thread 12 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 112 da thread 14 foi ativada
+Pagina 112 da thread 14 foi acessada
+Pagina 117 da thread 14 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 77 - Paginas ativas (total:16): 6  15  17  28  39  40  48  62  69  74  85  91  103  109  112  124 
+Pagina 11 da thread 1 foi ativada
+Pagina 11 da thread 1 foi acessada
+Pagina 15 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 27 da thread 3 foi ativada
+Pagina 27 da thread 3 foi acessada
+Pagina 28 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 42 da thread 5 foi ativada
+Pagina 42 da thread 5 foi acessada
+Pagina 40 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 60 da thread 7 foi ativada
+Pagina 60 da thread 7 foi acessada
+Pagina 62 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 79 da thread 9 foi ativada
+Pagina 79 da thread 9 foi acessada
+Pagina 74 da thread 9 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 93 da thread 11 foi ativada
+Pagina 93 da thread 11 foi acessada
+Pagina 91 da thread 11 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 106 da thread 13 foi ativada
+Pagina 106 da thread 13 foi acessada
+Pagina 109 da thread 13 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 124 da thread 15 foi acessada
+Tick 78 - Paginas ativas (total:16): 6  11  17  27  39  42  48  60  69  79  85  93  103  106  112  124 
+Pagina 6 da thread 0 foi acessada
+Pagina 18 da thread 2 foi ativada
+Pagina 18 da thread 2 foi acessada
+Pagina 17 da thread 2 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 36 da thread 4 foi ativada
+Pagina 36 da thread 4 foi acessada
+Pagina 39 da thread 4 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 48 da thread 6 foi acessada
+Pagina 64 da thread 8 foi ativada
+Pagina 64 da thread 8 foi acessada
+Pagina 69 da thread 8 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 81 da thread 10 foi ativada
+Pagina 81 da thread 10 foi acessada
+Pagina 85 da thread 10 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 101 da thread 12 foi ativada
+Pagina 101 da thread 12 foi acessada
+Pagina 103 da thread 12 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 119 da thread 14 foi ativada
+Pagina 119 da thread 14 foi acessada
+Pagina 112 da thread 14 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Tick 79 - Paginas ativas (total:16): 6  11  18  27  36  42  48  60  64  79  81  93  101  106  119  124 
+Pagina 13 da thread 1 foi ativada
+Pagina 13 da thread 1 foi acessada
+Pagina 11 da thread 1 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 29 da thread 3 foi ativada
+Pagina 29 da thread 3 foi acessada
+Pagina 27 da thread 3 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 46 da thread 5 foi ativada
+Pagina 46 da thread 5 foi acessada
+Pagina 42 da thread 5 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 63 da thread 7 foi ativada
+Pagina 63 da thread 7 foi acessada
+Pagina 60 da thread 7 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 73 da thread 9 foi ativada
+Pagina 73 da thread 9 foi acessada
+Pagina 79 da thread 9 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 91 da thread 11 foi ativada
+Pagina 91 da thread 11 foi acessada
+Pagina 93 da thread 11 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 107 da thread 13 foi ativada
+Pagina 107 da thread 13 foi acessada
+Pagina 106 da thread 13 com idade 2 foi desativada por exceder o limite de paginas por usuario
+Pagina 127 da thread 15 foi ativada
+Pagina 127 da thread 15 foi acessada
+Pagina 124 da thread 15 com idade 2 foi desativada por exceder o limite de paginas por usuario
