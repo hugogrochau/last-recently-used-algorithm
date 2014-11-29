@@ -1,0 +1,9 @@
+O algoritmo de substituição de páginas por LRU foi implementado usando uma struct chamada thread para simular o comportamento dos processos na CPU. A struct usa vetor de inteiros para indexar as páginas.
+
+As páginas são outra struct, com chars para fazer as marcações de acesso e de posição.
+
+No módulo LRU se encontram as funções de manipulação das páginas, como de acesso e criação, e a função tick, que é chamada a cada iteração para fazer update das páginas. Se uma página é acessada e já tiverem 16 páginas ná memória principal, o LRU simula um "swapping" da página que ficou mais tempo sem ser acessada.
+
+Quando alguma thread tem mais de quatro páginas, o limite do working set, a mais antiga é "swapped" e a nova é botada na memória principal.
+
+A função main faz o papel de criar as threads a cada 5 segundos e de acessar páginas aleatórias para cada thread cada 2 segundos.
