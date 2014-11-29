@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include "page.h"
 
-Page * PAGE_createPage() {
+Page * PAGE_createPage(int owner) {
     Page *page = (Page *) malloc (sizeof(Page));
     if (page == NULL) {
         return NULL;
@@ -9,6 +9,7 @@ Page * PAGE_createPage() {
     page->counter = 0;
     page->accessed = 0;
     page->active = 0;
+    page->owner = owner;
     return page;
 }
 
@@ -33,6 +34,9 @@ int PAGE_getLastAccessAge(Page *page) {
     }
     return i;
 }
+int PAGE_getOwner(Page *page) {
+    return page->owner;
+}
 
 unsigned char PAGE_isActive(Page *page) {
     return page->active;
@@ -42,13 +46,9 @@ unsigned char PAGE_isAccessed(Page *page) {
     return page->accessed;
 }
 
-void PAGE_resetPageAccessCount(Page *page) {
-    page->counter = 0;
-}
-
-void PAGE_tick(Page *page) {
+void PAGE_tick(Page *page, int RBit) {
     page->counter >>= 1;
-    if (PAGE_isAccessed(page))
+    if (RBit)
         page->counter |= 0x80;
     page->accessed = 0;
 }
